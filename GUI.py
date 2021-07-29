@@ -30,6 +30,7 @@ gspcCloseList = []
 gspcDailyChangeList = []
 davtCloseList = []
 davtDailyChangeList = []
+differentials = []
 
 # def show_warning():
 # 	print("Error")
@@ -40,72 +41,20 @@ def testCommand():
 
 # Iterates through the passed dailyChange list, building a string of output to
 # display streaks
-def findStreaksDailyChange(dates, gspcDC, davtDC):
-	# pdb.set_trace()
+def findStreakDifferential():
 	streakLength = eStreak.get()
 	minValue = eMin.get()
 
-	# try:
-	#if streakLength != '':
-	if v.get() == 1:
-		minV = float(minValue)
-		streak = int(streakLength)
-		# except ValueError:
-		# show_warning()
-		# return false
+	minV = float(minValue)
+	streak = int(streakLength)
 
-		streakDates = ""
-		runningDates = ""
-		runningStreakCounter = 0
-		index = 0
+	streakDates = calc_Streak(minV, streak)
 
-		for val in gspcDC:
-			index += 1
-			if val >= minV:
-				runningDates += dates[index] + '\n'
-				runningStreakCounter += 1
-			else:
-				if runningStreakCounter >= streak:
-					streakDates += runningDates + '\n'
-				runningDates = ""
-				runningStreakCounter = 0
-	
-		print('Dates where the gspc daily change was higher than ' + 
+	print('Dates where the differential ("^gspc" daily change - ' +
+		'daily account" daily change) was \nhigher than ' + 
 			minValue + '% for ' + streakLength + ' or more days in a row:\n')
-		print(streakDates)
-		sys.stdout.close()
-	else:
-		minV = float(minValue)
-		streak = int(streakLength)
-		# except ValueError:
-		# show_warning()
-		# return false
-
-		streakDates = ""
-		runningDates = ""
-		runningStreakCounter = 0
-		index = 0
-	
-		for val in davtDC:
-			index += 1
-			if val >= minV:
-				runningDates += dates[index] + '\n'
-				runningStreakCounter += 1
-			else:
-				if runningStreakCounter >= streak:
-					streakDates += runningDates + '\n'
-				runningDates = ""
-				runningStreakCounter = 0
-		print('Dates where the davt daily change was higher than ' + 
-			minValue + '% for ' + streakLength + ' or more days in a row:\n')
-		print(streakDates)
-		sys.stdout.close()
-
-	# if v.get() == 1:
-	# 	print("1")
-	# elif v.get() == 2: 
-	# 	print("2")
-
+	print(streakDates)
+	sys.stdout.close()
 
 # "Load" functions load their respective lists with data from the Excel sheet
 def load_dates(worksheet):
@@ -133,33 +82,46 @@ def load_davt_daily_change(worksheet):
 		for x in cell:
 			davtDailyChangeList.append(x.value * 100)
 
+def load_differentials(gspcDailyChange, davtDailyChange):
+	for i in range(2143):
+		differentials.append(gspcDailyChange[i] - davtDailyChange[i])
+
+# Call all the load functions
 def load_everything(worksheet):
 	load_dates(ws)
 	load_gspc_close(ws)
 	load_gspc_daily_change(ws)
 	load_davt_close(ws)
 	load_davt_daily_change(ws)
+	load_differentials(gspcDailyChangeList, davtDailyChangeList)
+	# for x in differentials:
+	# 	print(x)
+
+def calc_Streak(minV, streak):
+	streakDates = ""
+	runningDates = ""
+	runningStreakCounter = 0
+	index = 0
+
+	for val in differentials:
+		index += 1
+		if val >= minV:
+			# Save the date at the index point in a temp var
+			runningDates += dateList[index] + '\n'
+			runningStreakCounter += 1
+		else:
+			# Streak is broken. Save it to streakDates (what gets printed
+			# 	later) and reset temp vars
+			if runningStreakCounter >= streak:
+				streakDates += runningDates + '\n'
+			runningDates = ""
+			runningStreakCounter = 0
+
+	return streakDates
 
 
-# Begin the actual program now
-
-# Call all the load functions
+# Load the arrays with data
 load_everything(ws)
-
-
-# Set up the two radio buttons
-chooseChart_label = tk.Label(root, text = "Choose your chart:")
-chooseChart_label.grid(row = 0, column = 0, padx = 10, 
-	pady = (10, 5), sticky = "W")
-
-gspcRadio = tk.Radiobutton(root, text = 'gspc', variable = v,
-	value = 1, anchor = "w")
-davtRadio = tk.Radiobutton(root, text = 'davt', variable = v, 
-	value = 2, anchor = "w")
-
-gspcRadio.grid(row = 1, column = 0)
-davtRadio.grid(row = 1, column = 1)
-
 
 # Set up the min daily change label and entry box
 minDailyChange_label = tk.Label(root, text = "Minimum Daily Change:")
@@ -177,8 +139,7 @@ eStreak = tk.Entry(root, width = 10, borderwidth = 4)
 eStreak.grid(row = 3, column = 1, padx = 10, pady = 10, columnspan = 2)
 
 submitButton = tk.Button(root, text = "Submit", padx = 40, pady = 20, 
-	width = 1, height = 1, command = lambda: findStreaksDailyChange(dateList, 
-		gspcDailyChangeList, davtDailyChangeList))
+	width = 1, height = 1, command = lambda: findStreakDifferential())
 submitButton.grid(row = 4, column = 0)
 
 
@@ -208,15 +169,6 @@ exitButton.grid(row = 4, column = 1)
 # e1.grid(row = 0, column = 1, pady = 2)
 # e2.grid(row = 1, column = 1, pady = 2)
 
-
-
-
-
-
-
-
-
-
 # defines the submit command used for myButton below
 # def submit():
 # 	greet = nameit(myBox.get())
@@ -231,5 +183,20 @@ exitButton.grid(row = 4, column = 1)
 
 # myButton = Button(root, text="Submit Name", command = submit)
 # myButton.pack(pady=20)
+
+
+# Set up the two radio buttons
+# chooseChart_label = tk.Label(root, text = "Choose your chart:")
+# chooseChart_label.grid(row = 0, column = 0, padx = 10, 
+# 	pady = (10, 5), sticky = "W")
+
+# gspcRadio = tk.Radiobutton(root, text = 'gspc', variable = v,
+# 	value = 1, anchor = "w")
+# davtRadio = tk.Radiobutton(root, text = 'davt', variable = v, 
+# 	value = 2, anchor = "w")
+
+# gspcRadio.grid(row = 1, column = 0)
+# davtRadio.grid(row = 1, column = 1)
+
 
 root.mainloop()
