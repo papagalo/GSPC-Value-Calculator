@@ -53,7 +53,22 @@ def findStreakDifferential():
 	root.destroy
 	root.quit()
 
-def calc_Streak(minV, streak, future_days):
+# streak_dates should be loaded with the current streak.
+# day_count should be the 'Z' value or the # of days into
+# 	the future that you want to look
+# start is the index from the current iteration through the
+# 	differentials list
+# this function will append the next Z days to the current
+# 	list of dates
+def add_future_days(streak_dates, day_count, start):
+	end = start + day_count
+	streak_dates += '\nThe next ' + str(day_count) + ' days of differentials: \n'
+	for x in range(start, end):
+		streak_dates += dateList[x] + '\n'
+		# print('date list: ' + dateList[x] + '\n')
+	return streak_dates
+
+def calc_Streak(minV, streak, future_day_count):
 	streakDates = ""
 	runningDates = ""
 	runningStreakCounter = 0
@@ -69,7 +84,10 @@ def calc_Streak(minV, streak, future_days):
 			# Streak is broken. Save it to streakDates (what gets printed
 			# 	later) and reset temp vars
 			if runningStreakCounter >= streak:
-				streakDates += runningDates + '\n'
+				# add the current streak of dates to the main list
+				#streakDates += runningDates
+				# add the next future_day_count worth of dates to the main list
+				streakDates += add_future_days(runningDates, future_day_count, index) + '\n'
 			runningDates = ""
 			runningStreakCounter = 0
 
