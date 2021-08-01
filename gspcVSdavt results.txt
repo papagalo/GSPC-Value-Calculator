@@ -1,2025 +1,3149 @@
-Dates where the differential ("^gspc" daily change - daily account" daily change) was 
-higher than .1% for 2 or more days in a row:
-
-2/9/2012
-2/10/2012
-2/13/2012
-
-The next 2 days of differentials: 
-2/14/2012
-2/15/2012
-
-2/17/2012
-2/21/2012
-2/22/2012
-2/23/2012
-2/24/2012
-
-The next 2 days of differentials: 
-2/27/2012
-2/28/2012
-
-2/28/2012
-2/29/2012
-3/1/2012
-3/2/2012
-
-The next 2 days of differentials: 
-3/5/2012
-3/6/2012
-
-3/13/2012
-3/14/2012
-
-The next 2 days of differentials: 
-3/15/2012
-3/16/2012
-
-3/20/2012
-3/21/2012
-
-The next 2 days of differentials: 
-3/22/2012
-3/23/2012
-
-3/28/2012
-3/29/2012
-3/30/2012
-4/2/2012
-
-The next 2 days of differentials: 
-4/3/2012
-4/4/2012
-
-4/4/2012
-4/5/2012
-4/9/2012
-4/10/2012
-
-The next 2 days of differentials: 
-4/11/2012
-4/12/2012
-
-4/13/2012
-4/16/2012
-
-The next 2 days of differentials: 
-4/17/2012
-4/18/2012
-
-4/20/2012
-4/23/2012
-4/24/2012
-4/25/2012
-
-The next 2 days of differentials: 
-4/26/2012
-4/27/2012
-
-4/30/2012
-5/1/2012
-
-The next 2 days of differentials: 
-5/2/2012
-5/3/2012
-
-5/30/2012
-5/31/2012
-
-The next 2 days of differentials: 
-6/1/2012
-6/4/2012
-
-6/7/2012
-6/8/2012
-6/11/2012
-
-The next 2 days of differentials: 
-6/12/2012
-6/13/2012
-
-6/13/2012
-6/14/2012
-6/15/2012
-6/18/2012
-
-The next 2 days of differentials: 
-6/19/2012
-6/20/2012
-
-7/6/2012
-7/9/2012
-7/10/2012
-7/11/2012
-
-The next 2 days of differentials: 
-7/12/2012
-7/13/2012
-
-7/19/2012
-7/20/2012
-7/23/2012
-7/24/2012
-
-The next 2 days of differentials: 
-7/25/2012
-7/26/2012
-
-8/10/2012
-8/13/2012
-8/14/2012
-
-The next 2 days of differentials: 
-8/15/2012
-8/16/2012
-
-8/16/2012
-8/17/2012
-8/20/2012
-
-The next 2 days of differentials: 
-8/21/2012
-8/22/2012
-
-8/22/2012
-8/23/2012
-8/24/2012
-8/27/2012
-8/28/2012
-8/29/2012
-
-The next 2 days of differentials: 
-8/30/2012
-8/31/2012
-
-9/17/2012
-9/18/2012
-9/19/2012
-9/20/2012
-9/21/2012
-9/24/2012
-9/25/2012
-9/26/2012
-
-The next 2 days of differentials: 
-9/27/2012
-9/28/2012
-
-10/19/2012
-10/22/2012
-
-The next 2 days of differentials: 
-10/23/2012
-10/24/2012
-
-11/8/2012
-11/9/2012
-
-The next 2 days of differentials: 
-11/12/2012
-11/13/2012
-
-12/5/2012
-12/6/2012
-12/7/2012
-
-The next 2 days of differentials: 
-12/10/2012
-12/11/2012
-
-1/2/2013
-1/3/2013
-1/4/2013
-
-The next 2 days of differentials: 
-1/7/2013
-1/8/2013
-
-1/10/2013
-1/11/2013
-
-The next 2 days of differentials: 
-1/14/2013
-1/15/2013
-
-2/20/2013
-2/21/2013
-2/22/2013
-2/25/2013
-2/26/2013
-
-The next 2 days of differentials: 
-2/27/2013
-2/28/2013
-
-3/1/2013
-3/4/2013
-3/5/2013
-3/6/2013
-
-The next 2 days of differentials: 
-3/7/2013
-3/8/2013
-
-3/22/2013
-3/25/2013
-
-The next 2 days of differentials: 
-3/26/2013
-3/27/2013
-
-4/1/2013
-4/2/2013
-4/3/2013
-
-The next 2 days of differentials: 
-4/4/2013
-4/5/2013
-
-4/12/2013
-4/15/2013
-
-The next 2 days of differentials: 
-4/16/2013
-4/17/2013
-
-5/13/2013
-5/14/2013
-
-The next 2 days of differentials: 
-5/15/2013
-5/16/2013
-
-5/21/2013
-5/22/2013
-
-The next 2 days of differentials: 
-5/23/2013
-5/24/2013
-
-5/24/2013
-5/28/2013
-5/29/2013
-
-The next 2 days of differentials: 
-5/30/2013
-5/31/2013
-
-6/21/2013
-6/24/2013
-
-The next 2 days of differentials: 
-6/25/2013
-6/26/2013
-
-7/9/2013
-7/10/2013
-
-The next 2 days of differentials: 
-7/11/2013
-7/12/2013
-
-7/16/2013
-7/17/2013
-7/18/2013
-7/19/2013
-
-The next 2 days of differentials: 
-7/22/2013
-7/23/2013
-
-8/6/2013
-8/7/2013
-
-The next 2 days of differentials: 
-8/8/2013
-8/9/2013
-
-8/14/2013
-8/15/2013
-8/16/2013
-8/19/2013
-
-The next 2 days of differentials: 
-8/20/2013
-8/21/2013
-
-8/27/2013
-8/28/2013
-
-The next 2 days of differentials: 
-8/29/2013
-8/30/2013
-
-9/10/2013
-9/11/2013
-9/12/2013
-
-The next 2 days of differentials: 
-9/13/2013
-9/16/2013
-
-10/28/2013
-10/29/2013
-10/30/2013
-
-The next 2 days of differentials: 
-10/31/2013
-11/1/2013
-
-12/3/2013
-12/4/2013
-
-The next 2 days of differentials: 
-12/5/2013
-12/6/2013
-
-12/10/2013
-12/11/2013
-
-The next 2 days of differentials: 
-12/12/2013
-12/13/2013
-
-12/18/2013
-12/19/2013
-
-The next 2 days of differentials: 
-12/20/2013
-12/23/2013
-
-1/3/2014
-1/6/2014
-
-The next 2 days of differentials: 
-1/7/2014
-1/8/2014
-
-1/23/2014
-1/24/2014
-1/27/2014
-
-The next 2 days of differentials: 
-1/28/2014
-1/29/2014
-
-2/3/2014
-2/4/2014
-
-The next 2 days of differentials: 
-2/5/2014
-2/6/2014
-
-2/10/2014
-2/11/2014
-
-The next 2 days of differentials: 
-2/12/2014
-2/13/2014
-
-2/27/2014
-2/28/2014
-
-The next 2 days of differentials: 
-3/3/2014
-3/4/2014
-
-3/7/2014
-3/10/2014
-3/11/2014
-
-The next 2 days of differentials: 
-3/12/2014
-3/13/2014
-
-3/25/2014
-3/26/2014
-
-The next 2 days of differentials: 
-3/27/2014
-3/28/2014
-
-4/3/2014
-4/4/2014
-4/7/2014
-
-The next 2 days of differentials: 
-4/8/2014
-4/9/2014
-
-4/11/2014
-4/14/2014
-
-The next 2 days of differentials: 
-4/15/2014
-4/16/2014
-
-5/7/2014
-5/8/2014
-5/9/2014
-
-The next 2 days of differentials: 
-5/12/2014
-5/13/2014
-
-5/13/2014
-5/14/2014
-
-The next 2 days of differentials: 
-5/15/2014
-5/16/2014
-
-5/30/2014
-6/2/2014
-6/3/2014
-6/4/2014
-
-The next 2 days of differentials: 
-6/5/2014
-6/6/2014
-
-6/18/2014
-6/19/2014
-
-The next 2 days of differentials: 
-6/20/2014
-6/23/2014
-
-6/24/2014
-6/25/2014
-6/26/2014
-
-The next 2 days of differentials: 
-6/27/2014
-6/30/2014
-
-7/7/2014
-7/8/2014
-7/9/2014
-7/10/2014
-
-The next 2 days of differentials: 
-7/11/2014
-7/14/2014
-
-7/15/2014
-7/16/2014
-
-The next 2 days of differentials: 
-7/17/2014
-7/18/2014
-
-7/25/2014
-7/28/2014
-
-The next 2 days of differentials: 
-7/29/2014
-7/30/2014
-
-8/12/2014
-8/13/2014
-8/14/2014
-
-The next 2 days of differentials: 
-8/15/2014
-8/18/2014
-
-8/19/2014
-8/20/2014
-8/21/2014
-
-The next 2 days of differentials: 
-8/22/2014
-8/25/2014
-
-9/2/2014
-9/3/2014
-9/4/2014
-
-The next 2 days of differentials: 
-9/5/2014
-9/8/2014
-
-9/9/2014
-9/10/2014
-
-The next 2 days of differentials: 
-9/11/2014
-9/12/2014
-
-9/15/2014
-9/16/2014
-9/17/2014
-9/18/2014
-9/19/2014
-9/22/2014
-
-The next 2 days of differentials: 
-9/23/2014
-9/24/2014
-
-9/25/2014
-9/26/2014
-
-The next 2 days of differentials: 
-9/29/2014
-9/30/2014
-
-9/30/2014
-10/1/2014
-
-The next 2 days of differentials: 
-10/2/2014
-10/3/2014
-
-10/3/2014
-10/6/2014
-
-The next 2 days of differentials: 
-10/7/2014
-10/8/2014
-
-10/8/2014
-10/9/2014
-10/10/2014
-
-The next 2 days of differentials: 
-10/13/2014
-10/14/2014
-
-10/16/2014
-10/17/2014
-
-The next 2 days of differentials: 
-10/20/2014
-10/21/2014
-
-10/24/2014
-10/27/2014
-
-The next 2 days of differentials: 
-10/28/2014
-10/29/2014
-
-11/3/2014
-11/4/2014
-11/5/2014
-11/6/2014
-11/7/2014
-11/10/2014
-11/11/2014
-
-The next 2 days of differentials: 
-11/12/2014
-11/13/2014
-
-11/19/2014
-11/20/2014
-11/21/2014
-
-The next 2 days of differentials: 
-11/24/2014
-11/25/2014
-
-11/26/2014
-11/28/2014
-12/1/2014
-
-The next 2 days of differentials: 
-12/2/2014
-12/3/2014
-
-12/10/2014
-12/11/2014
-12/12/2014
-12/15/2014
-
-The next 2 days of differentials: 
-12/16/2014
-12/17/2014
-
-1/5/2015
-1/6/2015
-1/7/2015
-
-The next 2 days of differentials: 
-1/8/2015
-1/9/2015
-
-1/9/2015
-1/12/2015
-1/13/2015
-1/14/2015
-1/15/2015
-
-The next 2 days of differentials: 
-1/16/2015
-1/20/2015
-
-1/28/2015
-1/29/2015
-
-The next 2 days of differentials: 
-1/30/2015
-2/2/2015
-
-2/10/2015
-2/11/2015
-
-The next 2 days of differentials: 
-2/12/2015
-2/13/2015
-
-2/23/2015
-2/24/2015
-
-The next 2 days of differentials: 
-2/25/2015
-2/26/2015
-
-4/7/2015
-4/8/2015
-
-The next 2 days of differentials: 
-4/9/2015
-4/10/2015
-
-4/10/2015
-4/13/2015
-
-The next 2 days of differentials: 
-4/14/2015
-4/15/2015
-
-4/22/2015
-4/23/2015
-4/24/2015
-
-The next 2 days of differentials: 
-4/27/2015
-4/28/2015
-
-5/7/2015
-5/8/2015
-
-The next 2 days of differentials: 
-5/11/2015
-5/12/2015
-
-5/14/2015
-5/15/2015
-
-The next 2 days of differentials: 
-5/18/2015
-5/19/2015
-
-5/22/2015
-5/26/2015
-5/27/2015
-5/28/2015
-
-The next 2 days of differentials: 
-5/29/2015
-6/1/2015
-
-6/15/2015
-6/16/2015
-6/17/2015
-6/18/2015
-
-The next 2 days of differentials: 
-6/19/2015
-6/22/2015
-
-6/24/2015
-6/25/2015
-6/26/2015
-
-The next 2 days of differentials: 
-6/29/2015
-6/30/2015
-
-7/2/2015
-7/6/2015
-7/7/2015
-7/8/2015
-
-The next 2 days of differentials: 
-7/9/2015
-7/10/2015
-
-7/15/2015
-7/16/2015
-7/17/2015
-7/20/2015
-7/21/2015
-
-The next 2 days of differentials: 
-7/22/2015
-7/23/2015
-
-7/24/2015
-7/27/2015
-
-The next 2 days of differentials: 
-7/28/2015
-7/29/2015
-
-8/13/2015
-8/14/2015
-
-The next 2 days of differentials: 
-8/17/2015
-8/18/2015
-
-8/26/2015
-8/27/2015
-
-The next 2 days of differentials: 
-8/28/2015
-8/31/2015
-
-9/10/2015
-9/11/2015
-9/14/2015
-9/15/2015
-
-The next 2 days of differentials: 
-9/16/2015
-9/17/2015
-
-9/22/2015
-9/23/2015
-
-The next 2 days of differentials: 
-9/24/2015
-9/25/2015
-
-10/2/2015
-10/5/2015
-
-The next 2 days of differentials: 
-10/6/2015
-10/7/2015
-
-10/9/2015
-10/12/2015
-
-The next 2 days of differentials: 
-10/13/2015
-10/14/2015
-
-10/14/2015
-10/15/2015
-
-The next 2 days of differentials: 
-10/16/2015
-10/19/2015
-
-10/21/2015
-10/22/2015
-10/23/2015
-10/26/2015
-10/27/2015
-
-The next 2 days of differentials: 
-10/28/2015
-10/29/2015
-
-11/4/2015
-11/5/2015
-11/6/2015
-11/9/2015
-
-The next 2 days of differentials: 
-11/10/2015
-11/11/2015
-
-11/13/2015
-11/16/2015
-11/17/2015
-
-The next 2 days of differentials: 
-11/18/2015
-11/19/2015
-
-12/1/2015
-12/2/2015
-
-The next 2 days of differentials: 
-12/3/2015
-12/4/2015
-
-12/4/2015
-12/7/2015
-12/8/2015
-
-The next 2 days of differentials: 
-12/9/2015
-12/10/2015
-
-12/10/2015
-12/11/2015
-12/14/2015
-12/15/2015
-
-The next 2 days of differentials: 
-12/16/2015
-12/17/2015
-
-12/28/2015
-12/29/2015
-12/30/2015
-12/31/2015
-
-The next 2 days of differentials: 
-1/4/2016
-1/5/2016
-
-1/5/2016
-1/6/2016
-
-The next 2 days of differentials: 
-1/7/2016
-1/8/2016
-
-1/29/2016
-2/1/2016
-
-The next 2 days of differentials: 
-2/2/2016
-2/3/2016
-
-2/9/2016
-2/10/2016
-2/11/2016
-2/12/2016
-
-The next 2 days of differentials: 
-2/16/2016
-2/17/2016
-
-3/14/2016
-3/15/2016
-
-The next 2 days of differentials: 
-3/16/2016
-3/17/2016
-
-3/21/2016
-3/22/2016
-3/23/2016
-
-The next 2 days of differentials: 
-3/24/2016
-3/28/2016
-
-4/1/2016
-4/4/2016
-
-The next 2 days of differentials: 
-4/5/2016
-4/6/2016
-
-4/6/2016
-4/7/2016
-4/8/2016
-
-The next 2 days of differentials: 
-4/11/2016
-4/12/2016
-
-4/18/2016
-4/19/2016
-
-The next 2 days of differentials: 
-4/20/2016
-4/21/2016
-
-4/27/2016
-4/28/2016
-4/29/2016
-
-The next 2 days of differentials: 
-5/2/2016
-5/3/2016
-
-5/9/2016
-5/10/2016
-5/11/2016
-
-The next 2 days of differentials: 
-5/12/2016
-5/13/2016
-
-5/16/2016
-5/17/2016
-5/18/2016
-
-The next 2 days of differentials: 
-5/19/2016
-5/20/2016
-
-5/23/2016
-5/24/2016
-
-The next 2 days of differentials: 
-5/25/2016
-5/26/2016
-
-6/3/2016
-6/6/2016
-
-The next 2 days of differentials: 
-6/7/2016
-6/8/2016
-
-6/9/2016
-6/10/2016
-6/13/2016
-6/14/2016
-
-The next 2 days of differentials: 
-6/15/2016
-6/16/2016
-
-6/21/2016
-6/22/2016
-
-The next 2 days of differentials: 
-6/23/2016
-6/24/2016
-
-6/24/2016
-6/27/2016
-
-The next 2 days of differentials: 
-6/28/2016
-6/29/2016
-
-7/13/2016
-7/14/2016
-
-The next 2 days of differentials: 
-7/15/2016
-7/18/2016
-
-8/1/2016
-8/2/2016
-
-The next 2 days of differentials: 
-8/3/2016
-8/4/2016
-
-8/9/2016
-8/10/2016
-
-The next 2 days of differentials: 
-8/11/2016
-8/12/2016
-
-8/16/2016
-8/17/2016
-
-The next 2 days of differentials: 
-8/18/2016
-8/19/2016
-
-9/8/2016
-9/9/2016
-
-The next 2 days of differentials: 
-9/12/2016
-9/13/2016
-
-9/27/2016
-9/28/2016
-9/29/2016
-9/30/2016
-10/3/2016
-
-The next 2 days of differentials: 
-10/4/2016
-10/5/2016
-
-10/7/2016
-10/10/2016
-
-The next 2 days of differentials: 
-10/11/2016
-10/12/2016
-
-10/13/2016
-10/14/2016
-
-The next 2 days of differentials: 
-10/17/2016
-10/18/2016
-
-10/24/2016
-10/25/2016
-
-The next 2 days of differentials: 
-10/26/2016
-10/27/2016
-
-11/1/2016
-11/2/2016
-11/3/2016
-
-The next 2 days of differentials: 
-11/4/2016
-11/7/2016
-
-11/7/2016
-11/8/2016
-11/9/2016
-
-The next 2 days of differentials: 
-11/10/2016
-11/11/2016
-
-11/18/2016
-11/21/2016
-
-The next 2 days of differentials: 
-11/22/2016
-11/23/2016
-
-12/9/2016
-12/12/2016
-12/13/2016
-
-The next 2 days of differentials: 
-12/14/2016
-12/15/2016
-
-12/21/2016
-12/22/2016
-
-The next 2 days of differentials: 
-12/23/2016
-12/27/2016
-
-1/5/2017
-1/6/2017
-1/9/2017
-
-The next 2 days of differentials: 
-1/10/2017
-1/11/2017
-
-1/19/2017
-1/20/2017
-
-The next 2 days of differentials: 
-1/23/2017
-1/24/2017
-
-1/26/2017
-1/27/2017
-1/30/2017
-
-The next 2 days of differentials: 
-1/31/2017
-2/1/2017
-
-2/2/2017
-2/3/2017
-2/6/2017
-2/7/2017
-
-The next 2 days of differentials: 
-2/8/2017
-2/9/2017
-
-2/22/2017
-2/23/2017
-
-The next 2 days of differentials: 
-2/24/2017
-2/27/2017
-
-2/28/2017
-3/1/2017
-
-The next 2 days of differentials: 
-3/2/2017
-3/3/2017
-
-3/14/2017
-3/15/2017
-3/16/2017
-3/17/2017
-3/20/2017
-3/21/2017
-
-The next 2 days of differentials: 
-3/22/2017
-3/23/2017
-
-3/28/2017
-3/29/2017
-
-The next 2 days of differentials: 
-3/30/2017
-3/31/2017
-
-4/3/2017
-4/4/2017
-
-The next 2 days of differentials: 
-4/5/2017
-4/6/2017
-
-4/12/2017
-4/13/2017
-
-The next 2 days of differentials: 
-4/17/2017
-4/18/2017
-
-4/24/2017
-4/25/2017
-
-The next 2 days of differentials: 
-4/26/2017
-4/27/2017
-
-5/3/2017
-5/4/2017
-
-The next 2 days of differentials: 
-5/5/2017
-5/8/2017
-
-5/10/2017
-5/11/2017
-5/12/2017
-5/15/2017
-5/16/2017
-5/17/2017
-5/18/2017
-
-The next 2 days of differentials: 
-5/19/2017
-5/22/2017
-
-5/22/2017
-5/23/2017
-
-The next 2 days of differentials: 
-5/24/2017
-5/25/2017
-
-6/2/2017
-6/5/2017
-
-The next 2 days of differentials: 
-6/6/2017
-6/7/2017
-
-6/13/2017
-6/14/2017
-6/15/2017
-6/16/2017
-6/19/2017
-6/20/2017
-
-The next 2 days of differentials: 
-6/21/2017
-6/22/2017
-
-7/10/2017
-7/11/2017
-7/12/2017
-
-The next 2 days of differentials: 
-7/13/2017
-7/14/2017
-
-7/21/2017
-7/24/2017
-
-The next 2 days of differentials: 
-7/25/2017
-7/26/2017
-
-7/28/2017
-7/31/2017
-
-The next 2 days of differentials: 
-8/1/2017
-8/2/2017
-
-8/2/2017
-8/3/2017
-
-The next 2 days of differentials: 
-8/4/2017
-8/7/2017
-
-8/8/2017
-8/9/2017
-8/10/2017
-
-The next 2 days of differentials: 
-8/11/2017
-8/14/2017
-
-8/14/2017
-8/15/2017
-
-The next 2 days of differentials: 
-8/16/2017
-8/17/2017
-
-8/28/2017
-8/29/2017
-
-The next 2 days of differentials: 
-8/30/2017
-8/31/2017
-
-9/7/2017
-9/8/2017
-9/11/2017
-
-The next 2 days of differentials: 
-9/12/2017
-9/13/2017
-
-10/3/2017
-10/4/2017
-10/5/2017
-10/6/2017
-10/9/2017
-10/10/2017
-10/11/2017
-10/12/2017
-10/13/2017
-10/16/2017
-
-The next 2 days of differentials: 
-10/17/2017
-10/18/2017
-
-10/23/2017
-10/24/2017
-
-The next 2 days of differentials: 
-10/25/2017
-10/26/2017
-
-10/26/2017
-10/27/2017
-10/30/2017
-
-The next 2 days of differentials: 
-10/31/2017
-11/1/2017
-
-11/1/2017
-11/2/2017
-11/3/2017
-11/6/2017
-11/7/2017
-
-The next 2 days of differentials: 
-11/8/2017
-11/9/2017
-
-11/30/2017
-12/1/2017
-
-The next 2 days of differentials: 
-12/4/2017
-12/5/2017
-
-12/11/2017
-12/12/2017
-
-The next 2 days of differentials: 
-12/13/2017
-12/14/2017
-
-12/21/2017
-12/22/2017
-
-The next 2 days of differentials: 
-12/26/2017
-12/27/2017
-
-12/27/2017
-12/28/2017
-12/29/2017
-
-The next 2 days of differentials: 
-1/2/2018
-1/3/2018
-
-1/3/2018
-1/4/2018
-1/5/2018
-1/8/2018
-1/9/2018
-1/10/2018
-
-The next 2 days of differentials: 
-1/11/2018
-1/12/2018
-
-1/12/2018
-1/16/2018
-
-The next 2 days of differentials: 
-1/17/2018
-1/18/2018
-
-1/22/2018
-1/23/2018
-1/24/2018
-1/25/2018
-1/26/2018
-
-The next 2 days of differentials: 
-1/29/2018
-1/30/2018
-
-1/31/2018
-2/1/2018
-
-The next 2 days of differentials: 
-2/2/2018
-2/5/2018
-
-2/9/2018
-2/12/2018
-2/13/2018
-
-The next 2 days of differentials: 
-2/14/2018
-2/15/2018
-
-2/15/2018
-2/16/2018
-
-The next 2 days of differentials: 
-2/20/2018
-2/21/2018
-
-2/23/2018
-2/26/2018
-2/27/2018
-2/28/2018
-
-The next 2 days of differentials: 
-3/1/2018
-3/2/2018
-
-3/8/2018
-3/9/2018
-
-The next 2 days of differentials: 
-3/12/2018
-3/13/2018
-
-3/29/2018
-4/2/2018
-4/3/2018
-
-The next 2 days of differentials: 
-4/4/2018
-4/5/2018
-
-4/9/2018
-4/10/2018
-
-The next 2 days of differentials: 
-4/11/2018
-4/12/2018
-
-4/12/2018
-4/13/2018
-4/16/2018
-4/17/2018
-4/18/2018
-4/19/2018
-4/20/2018
-
-The next 2 days of differentials: 
-4/23/2018
-4/24/2018
-
-5/9/2018
-5/10/2018
-
-The next 2 days of differentials: 
-5/11/2018
-5/14/2018
-
-5/18/2018
-5/21/2018
-5/22/2018
-5/23/2018
-
-The next 2 days of differentials: 
-5/24/2018
-5/25/2018
-
-5/31/2018
-6/1/2018
-
-The next 2 days of differentials: 
-6/4/2018
-6/5/2018
-
-6/28/2018
-6/29/2018
-
-The next 2 days of differentials: 
-7/2/2018
-7/3/2018
-
-7/6/2018
-7/9/2018
-7/10/2018
-7/11/2018
-7/12/2018
-7/13/2018
-7/16/2018
-
-The next 2 days of differentials: 
-7/17/2018
-7/18/2018
-
-7/20/2018
-7/23/2018
-7/24/2018
-7/25/2018
-
-The next 2 days of differentials: 
-7/26/2018
-7/27/2018
-
-8/10/2018
-8/13/2018
-
-The next 2 days of differentials: 
-8/14/2018
-8/15/2018
-
-8/22/2018
-8/23/2018
-8/24/2018
-
-The next 2 days of differentials: 
-8/27/2018
-8/28/2018
-
-8/29/2018
-8/30/2018
-
-The next 2 days of differentials: 
-8/31/2018
-9/4/2018
-
-9/6/2018
-9/7/2018
-
-The next 2 days of differentials: 
-9/10/2018
-9/11/2018
-
-9/11/2018
-9/12/2018
-9/13/2018
-
-The next 2 days of differentials: 
-9/14/2018
-9/17/2018
-
-9/18/2018
-9/19/2018
-9/20/2018
-9/21/2018
-9/24/2018
-9/25/2018
-9/26/2018
-9/27/2018
-
-The next 2 days of differentials: 
-9/28/2018
-10/1/2018
-
-10/1/2018
-10/2/2018
-
-The next 2 days of differentials: 
-10/3/2018
-10/4/2018
-
-10/4/2018
-10/5/2018
-
-The next 2 days of differentials: 
-10/8/2018
-10/9/2018
-
-10/16/2018
-10/17/2018
-10/18/2018
-10/19/2018
-
-The next 2 days of differentials: 
-10/22/2018
-10/23/2018
-
-10/25/2018
-10/26/2018
-10/29/2018
-
-The next 2 days of differentials: 
-10/30/2018
-10/31/2018
-
-11/5/2018
-11/6/2018
-11/7/2018
-11/8/2018
-11/9/2018
-
-The next 2 days of differentials: 
-11/12/2018
-11/13/2018
-
-11/15/2018
-11/16/2018
-
-The next 2 days of differentials: 
-11/19/2018
-11/20/2018
-
-11/26/2018
-11/27/2018
-11/28/2018
-11/29/2018
-
-The next 2 days of differentials: 
-11/30/2018
-12/3/2018
-
-12/4/2018
-12/6/2018
-
-The next 2 days of differentials: 
-12/7/2018
-12/10/2018
-
-12/27/2018
-12/28/2018
-12/31/2018
-
-The next 2 days of differentials: 
-1/2/2019
-1/3/2019
-
-1/22/2019
-1/23/2019
-
-The next 2 days of differentials: 
-1/24/2019
-1/25/2019
-
-2/25/2019
-2/26/2019
-2/27/2019
-2/28/2019
-
-The next 2 days of differentials: 
-3/1/2019
-3/4/2019
-
-3/4/2019
-3/5/2019
-3/6/2019
-
-The next 2 days of differentials: 
-3/7/2019
-3/8/2019
-
-3/12/2019
-3/13/2019
-3/14/2019
-
-The next 2 days of differentials: 
-3/15/2019
-3/18/2019
-
-3/19/2019
-3/20/2019
-
-The next 2 days of differentials: 
-3/21/2019
-3/22/2019
-
-4/8/2019
-4/9/2019
-
-The next 2 days of differentials: 
-4/10/2019
-4/11/2019
-
-4/22/2019
-4/23/2019
-
-The next 2 days of differentials: 
-4/24/2019
-4/25/2019
-
-4/29/2019
-4/30/2019
-5/1/2019
-5/2/2019
-
-The next 2 days of differentials: 
-5/3/2019
-5/6/2019
-
-5/7/2019
-5/8/2019
-5/9/2019
-5/10/2019
-5/13/2019
-
-The next 2 days of differentials: 
-5/14/2019
-5/15/2019
-
-5/15/2019
-5/16/2019
-5/17/2019
-
-The next 2 days of differentials: 
-5/20/2019
-5/21/2019
-
-5/22/2019
-5/23/2019
-
-The next 2 days of differentials: 
-5/24/2019
-5/28/2019
-
-5/30/2019
-5/31/2019
-
-The next 2 days of differentials: 
-6/3/2019
-6/4/2019
-
-6/5/2019
-6/6/2019
-6/7/2019
-
-The next 2 days of differentials: 
-6/10/2019
-6/11/2019
-
-6/14/2019
-6/17/2019
-
-The next 2 days of differentials: 
-6/18/2019
-6/19/2019
-
-6/21/2019
-6/24/2019
-
-The next 2 days of differentials: 
-6/25/2019
-6/26/2019
-
-7/1/2019
-7/2/2019
-7/3/2019
-
-The next 2 days of differentials: 
-7/5/2019
-7/8/2019
-
-7/8/2019
-7/9/2019
-7/10/2019
-7/11/2019
-
-The next 2 days of differentials: 
-7/12/2019
-7/15/2019
-
-7/17/2019
-7/18/2019
-
-The next 2 days of differentials: 
-7/19/2019
-7/22/2019
-
-7/25/2019
-7/26/2019
-7/29/2019
-
-The next 2 days of differentials: 
-7/30/2019
-7/31/2019
-
-7/31/2019
-8/1/2019
-8/2/2019
-8/5/2019
-8/6/2019
-8/7/2019
-
-The next 2 days of differentials: 
-8/8/2019
-8/9/2019
-
-8/9/2019
-8/12/2019
-8/13/2019
-8/14/2019
-8/15/2019
-
-The next 2 days of differentials: 
-8/16/2019
-8/19/2019
-
-8/23/2019
-8/26/2019
-8/27/2019
-
-The next 2 days of differentials: 
-8/28/2019
-8/29/2019
-
-9/17/2019
-9/18/2019
-9/19/2019
-
-The next 2 days of differentials: 
-9/20/2019
-9/23/2019
-
-10/1/2019
-10/2/2019
-10/3/2019
-10/4/2019
-10/7/2019
-10/8/2019
-10/9/2019
-10/10/2019
-
-The next 2 days of differentials: 
-10/11/2019
-10/14/2019
-
-10/29/2019
-10/30/2019
-10/31/2019
-
-The next 2 days of differentials: 
-11/1/2019
-11/4/2019
-
-11/8/2019
-11/11/2019
-11/12/2019
-11/13/2019
-
-The next 2 days of differentials: 
-11/14/2019
-11/15/2019
-
-11/18/2019
-11/19/2019
-11/20/2019
-11/21/2019
-
-The next 2 days of differentials: 
-11/22/2019
-11/25/2019
-
-12/10/2019
-12/11/2019
-
-The next 2 days of differentials: 
-12/12/2019
-12/13/2019
-
-12/26/2019
-12/27/2019
-
-The next 2 days of differentials: 
-12/30/2019
-12/31/2019
-
-1/2/2020
-1/3/2020
-1/6/2020
-
-The next 2 days of differentials: 
-1/7/2020
-1/8/2020
-
-1/8/2020
-1/9/2020
-
-The next 2 days of differentials: 
-1/10/2020
-1/13/2020
-
-1/15/2020
-1/16/2020
-1/17/2020
-1/21/2020
-1/22/2020
-
-The next 2 days of differentials: 
-1/23/2020
-1/24/2020
-
-1/24/2020
-1/27/2020
-1/28/2020
-1/29/2020
-
-The next 2 days of differentials: 
-1/30/2020
-1/31/2020
-
-1/31/2020
-2/3/2020
-
-The next 2 days of differentials: 
-2/4/2020
-2/5/2020
-
-2/6/2020
-2/7/2020
-2/10/2020
-
-The next 2 days of differentials: 
-2/11/2020
-2/12/2020
-
-2/13/2020
-2/14/2020
-2/18/2020
-
-The next 2 days of differentials: 
-2/19/2020
-2/20/2020
-
-2/25/2020
-2/26/2020
-
-The next 2 days of differentials: 
-2/27/2020
-2/28/2020
-
-3/4/2020
-3/5/2020
-
-The next 2 days of differentials: 
-3/6/2020
-3/9/2020
-
-3/9/2020
-3/10/2020
-3/11/2020
-3/12/2020
-3/13/2020
-
-The next 2 days of differentials: 
-3/16/2020
-3/17/2020
-
-3/17/2020
-3/18/2020
-
-The next 2 days of differentials: 
-3/19/2020
-3/20/2020
-
-3/20/2020
-3/23/2020
-3/24/2020
-
-The next 2 days of differentials: 
-3/25/2020
-3/26/2020
-
-3/26/2020
-3/27/2020
-3/30/2020
-
-The next 2 days of differentials: 
-3/31/2020
-4/1/2020
-
-4/1/2020
-4/2/2020
-4/3/2020
-
-The next 2 days of differentials: 
-4/6/2020
-4/7/2020
-
-4/13/2020
-4/14/2020
-4/15/2020
-4/16/2020
-
-The next 2 days of differentials: 
-4/17/2020
-4/20/2020
-
-5/4/2020
-5/5/2020
-5/6/2020
-
-The next 2 days of differentials: 
-5/7/2020
-5/8/2020
-
-5/11/2020
-5/12/2020
-5/13/2020
-5/14/2020
-5/15/2020
-
-The next 2 days of differentials: 
-5/18/2020
-5/19/2020
-
-5/28/2020
-5/29/2020
-
-The next 2 days of differentials: 
-6/1/2020
-6/2/2020
-
-6/9/2020
-6/10/2020
-6/11/2020
-
-The next 2 days of differentials: 
-6/12/2020
-6/15/2020
-
-6/17/2020
-6/18/2020
-6/19/2020
-6/22/2020
-
-The next 2 days of differentials: 
-6/23/2020
-6/24/2020
-
-6/30/2020
-7/1/2020
-
-The next 2 days of differentials: 
-7/2/2020
-7/6/2020
-
-7/7/2020
-7/8/2020
-7/9/2020
-
-The next 2 days of differentials: 
-7/10/2020
-7/13/2020
-
-7/17/2020
-7/20/2020
-
-The next 2 days of differentials: 
-7/21/2020
-7/22/2020
-
-7/24/2020
-7/27/2020
-7/28/2020
-
-The next 2 days of differentials: 
-7/29/2020
-7/30/2020
-
-7/30/2020
-7/31/2020
-
-The next 2 days of differentials: 
-8/3/2020
-8/4/2020
-
+5/3/2012:
+^GSPC closing value was: 1391.6
+^GSPC Percent Change was: -0.7630321614
+Daily Account closing value was: 11591.0
+the Daily Account Percent Change was: -3.036640455
+The differential was: 2.2736082936
+5/4/2012:
+^GSPC closing value was: 1369.1
+^GSPC Percent Change was: -1.616843921
+Daily Account closing value was: 11459.0
+the Daily Account Percent Change was: -1.138814598
+The differential was: -0.4780293230000001
+10/17/2014:
+^GSPC closing value was: 1886.8
+^GSPC Percent Change was: 1.288383079
+Daily Account closing value was: 14875.0
+the Daily Account Percent Change was: -0.8927976546999999
+The differential was: 2.1811807336999998
+10/20/2014:
+^GSPC closing value was: 1904.0
+^GSPC Percent Change was: 0.9115963536000001
+Daily Account closing value was: 15089.0
+the Daily Account Percent Change was: 1.438655462
+The differential was: -0.5270591083999999
+7/28/2016:
+^GSPC closing value was: 2170.1
+^GSPC Percent Change was: 0.1615434321
+Daily Account closing value was: 16203.0
+the Daily Account Percent Change was: -3.08630899
+The differential was: 3.2478524221000002
+7/29/2016:
+^GSPC closing value was: 2173.6
+^GSPC Percent Change was: 0.1612828902
+Daily Account closing value was: 16308.0
+the Daily Account Percent Change was: 0.6480281429
+The differential was: -0.4867452527
+9/8/2017:
+^GSPC closing value was: 2461.4
+^GSPC Percent Change was: -0.1500953308
+Daily Account closing value was: 17978.0
+the Daily Account Percent Change was: -2.197802198
+The differential was: 2.0477068672
+9/11/2017:
+^GSPC closing value was: 2488.1
+^GSPC Percent Change was: 1.084748517
+Daily Account closing value was: 18071.0
+the Daily Account Percent Change was: 0.5172989209
+The differential was: 0.5674495961
+10/9/2018:
+^GSPC closing value was: 2880.3
+^GSPC Percent Change was: -0.1421439467
+Daily Account closing value was: 19274.0
+the Daily Account Percent Change was: -2.2864385300000003
+The differential was: 2.1442945833000002
+10/10/2018:
+^GSPC closing value was: 2785.7
+^GSPC Percent Change was: -3.284380099
+Daily Account closing value was: 18943.0
+the Daily Account Percent Change was: -1.7173394210000001
+The differential was: -1.5670406779999997
+8/1/2019:
+^GSPC closing value was: 2953.6
+^GSPC Percent Change was: -0.89920816
+Daily Account closing value was: 18696.0
+the Daily Account Percent Change was: -3.044132137
+The differential was: 2.144923977
+8/2/2019:
+^GSPC closing value was: 2932.1
+^GSPC Percent Change was: -0.7279252438
+Daily Account closing value was: 18534.0
+the Daily Account Percent Change was: -0.8664955071
+The differential was: 0.1385702633
+8/9/2019:
+^GSPC closing value was: 2918.6
+^GSPC Percent Change was: -0.6636942242
+Daily Account closing value was: 17877.0
+the Daily Account Percent Change was: -2.741961808
+The differential was: 2.0782675838
+8/12/2019:
+^GSPC closing value was: 2882.7
+^GSPC Percent Change was: -1.230041801
+Daily Account closing value was: 17518.0
+the Daily Account Percent Change was: -2.008166918
+The differential was: 0.7781251170000001
+3/2/2020:
+^GSPC closing value was: 3090.2
+^GSPC Percent Change was: 4.6036151919999995
+Daily Account closing value was: 17663.0
+the Daily Account Percent Change was: 1.470672718
+The differential was: 3.132942473999999
+3/3/2020:
+^GSPC closing value was: 3003.4
+^GSPC Percent Change was: -2.808879684
+Daily Account closing value was: 17244.0
+the Daily Account Percent Change was: -2.3721904549999997
+The differential was: -0.4366892290000002
+3/9/2020:
+^GSPC closing value was: 2746.6
+^GSPC Percent Change was: -7.596554972
+Daily Account closing value was: 15008.0
+the Daily Account Percent Change was: -9.975406394
+The differential was: 2.3788514220000003
+3/10/2020:
+^GSPC closing value was: 2882.2
+^GSPC Percent Change was: 4.937013034
+Daily Account closing value was: 15653.0
+the Daily Account Percent Change was: 4.297707889
+The differential was: 0.6393051449999998
+3/27/2020:
+^GSPC closing value was: 2541.5
+^GSPC Percent Change was: -3.368693206
+Daily Account closing value was: 13107.0
+the Daily Account Percent Change was: -6.150651582
+The differential was: 2.781958376
+3/30/2020:
+^GSPC closing value was: 2626.6
+^GSPC Percent Change was: 3.3484162900000003
+Daily Account closing value was: 13009.0
+the Daily Account Percent Change was: -0.7476920729
+The differential was: 4.0961083629
+3/31/2020:
+^GSPC closing value was: 2584.6
+^GSPC Percent Change was: -1.599025356
+Daily Account closing value was: 12970.0
+the Daily Account Percent Change was: -0.2997924514
+The differential was: -1.2992329046000002
+4/1/2020:
+^GSPC closing value was: 2470.5
+^GSPC Percent Change was: -4.4146096109999995
+Daily Account closing value was: 12084.0
+the Daily Account Percent Change was: -6.831148805
+The differential was: 2.4165391940000003
+4/2/2020:
+^GSPC closing value was: 2526.9
+^GSPC Percent Change was: 2.282938676
+Daily Account closing value was: 12061.0
+the Daily Account Percent Change was: -0.1903343264
+The differential was: 2.4732730024
+4/3/2020:
+^GSPC closing value was: 2488.6
+^GSPC Percent Change was: -1.515691163
+Daily Account closing value was: 11757.0
+the Daily Account Percent Change was: -2.520520687
+The differential was: 1.0048295239999998
+4/13/2020:
+^GSPC closing value was: 2761.6
+^GSPC Percent Change was: -1.010825149
+Daily Account closing value was: 13902.0
+the Daily Account Percent Change was: -4.5782140159999996
+The differential was: 3.5673888669999996
+4/14/2020:
+^GSPC closing value was: 2846.1
+^GSPC Percent Change was: 3.059820394
+Daily Account closing value was: 14114.0
+the Daily Account Percent Change was: 1.5249604369999998
+The differential was: 1.534859957
+4/30/2020:
+^GSPC closing value was: 2912.4
+^GSPC Percent Change was: -0.9219254975000001
+Daily Account closing value was: 15360.0
+the Daily Account Percent Change was: -3.825684052
+The differential was: 2.9037585545
+5/1/2020:
+^GSPC closing value was: 2830.7
+^GSPC Percent Change was: -2.805246532
+Daily Account closing value was: 14927.0
+the Daily Account Percent Change was: -2.819010417
+The differential was: 0.01376388499999992
+5/5/2020:
+^GSPC closing value was: 2868.4
+^GSPC Percent Change was: 0.9040700742
+Daily Account closing value was: 14370.0
+the Daily Account Percent Change was: -2.450614351
+The differential was: 3.3546844252
+5/6/2020:
+^GSPC closing value was: 2848.4
+^GSPC Percent Change was: -0.6972528239
+Daily Account closing value was: 13822.0
+the Daily Account Percent Change was: -3.813500348
+The differential was: 3.1162475241
+5/7/2020:
+^GSPC closing value was: 2881.2
+^GSPC Percent Change was: 1.151523662
+Daily Account closing value was: 14295.0
+the Daily Account Percent Change was: 3.422080741
+The differential was: -2.2705570789999996
+5/11/2020:
+^GSPC closing value was: 2930.2
+^GSPC Percent Change was: 0.013652809069999999
+Daily Account closing value was: 14773.0
+the Daily Account Percent Change was: -2.751629254
+The differential was: 2.76528206307
+5/12/2020:
+^GSPC closing value was: 2870.1
+^GSPC Percent Change was: -2.051054536
+Daily Account closing value was: 14204.0
+the Daily Account Percent Change was: -3.8516212010000004
+The differential was: 1.8005666650000003
+5/13/2020:
+^GSPC closing value was: 2820.0
+^GSPC Percent Change was: -1.745583778
+Daily Account closing value was: 13637.0
+the Daily Account Percent Change was: -3.9918332860000003
+The differential was: 2.246249508
+5/14/2020:
+^GSPC closing value was: 2852.5
+^GSPC Percent Change was: 1.15248227
+Daily Account closing value was: 13772.0
+the Daily Account Percent Change was: 0.9899538022000001
+The differential was: 0.16252846779999985
+5/28/2020:
+^GSPC closing value was: 3029.7
+^GSPC Percent Change was: -0.2107967458
+Daily Account closing value was: 17154.0
+the Daily Account Percent Change was: -3.509956126
+The differential was: 3.2991593802
+5/29/2020:
+^GSPC closing value was: 3044.3
+^GSPC Percent Change was: 0.4818958973
+Daily Account closing value was: 16788.0
+the Daily Account Percent Change was: -2.133613151
+The differential was: 2.6155090483
+6/1/2020:
+^GSPC closing value was: 3055.7
+^GSPC Percent Change was: 0.3744703216
+Daily Account closing value was: 17190.0
+the Daily Account Percent Change was: 2.394567548
+The differential was: -2.0200972264
+6/9/2020:
+^GSPC closing value was: 3207.2
+^GSPC Percent Change was: -0.7796064843
+Daily Account closing value was: 20653.0
+the Daily Account Percent Change was: -4.679928001
+The differential was: 3.9003215167000005
+6/10/2020:
+^GSPC closing value was: 3190.1
+^GSPC Percent Change was: -0.5331753555
+Daily Account closing value was: 19473.0
+the Daily Account Percent Change was: -5.713455672
+The differential was: 5.1802803165
+6/11/2020:
+^GSPC closing value was: 3002.1
+^GSPC Percent Change was: -5.893232187
+Daily Account closing value was: 17454.0
+the Daily Account Percent Change was: -10.36820213
+The differential was: 4.4749699430000005
+6/12/2020:
+^GSPC closing value was: 3041.3
+^GSPC Percent Change was: 1.30575264
+Daily Account closing value was: 18176.0
+the Daily Account Percent Change was: 4.136587602
+The differential was: -2.830834962
+6/17/2020:
+^GSPC closing value was: 3113.5
+^GSPC Percent Change was: -0.3584344097
+Daily Account closing value was: 18199.0
+the Daily Account Percent Change was: -3.140135185
+The differential was: 2.7817007753
+6/18/2020:
+^GSPC closing value was: 3115.3
+^GSPC Percent Change was: 0.057812750919999996
+Daily Account closing value was: 18077.0
+the Daily Account Percent Change was: -0.6703665037000001
+The differential was: 0.7281792546200001
+6/24/2020:
+^GSPC closing value was: 3050.3
+^GSPC Percent Change was: -2.586785041
+Daily Account closing value was: 16965.0
+the Daily Account Percent Change was: -5.912040375
+The differential was: 3.325255334
+6/25/2020:
+^GSPC closing value was: 3083.8
+^GSPC Percent Change was: 1.098252631
+Daily Account closing value was: 17294.0
+the Daily Account Percent Change was: 1.939286767
+The differential was: -0.841034136
+7/1/2020:
+^GSPC closing value was: 3115.9
+^GSPC Percent Change was: 0.5031771119
+Daily Account closing value was: 17398.0
+the Daily Account Percent Change was: -2.335241945
+The differential was: 2.8384190569
+7/2/2020:
+^GSPC closing value was: 3130.0
+^GSPC Percent Change was: 0.4525177316
+Daily Account closing value was: 17512.0
+the Daily Account Percent Change was: 0.6552477296
+The differential was: -0.20272999800000002
+7/7/2020:
+^GSPC closing value was: 3145.3
+^GSPC Percent Change was: -1.0818630690000002
+Daily Account closing value was: 17239.0
+the Daily Account Percent Change was: -3.439197894
+The differential was: 2.3573348249999997
+7/8/2020:
+^GSPC closing value was: 3169.9
+^GSPC Percent Change was: 0.7821193527
+Daily Account closing value was: 17301.0
+the Daily Account Percent Change was: 0.35964963159999996
+The differential was: 0.42246972110000003
+7/9/2020:
+^GSPC closing value was: 3152.1
+^GSPC Percent Change was: -0.5615319095
+Daily Account closing value was: 16440.0
+the Daily Account Percent Change was: -4.976590949
+The differential was: 4.4150590395
+7/10/2020:
+^GSPC closing value was: 3185.0
+^GSPC Percent Change was: 1.0437486120000001
+Daily Account closing value was: 17348.0
+the Daily Account Percent Change was: 5.523114355
+The differential was: -4.479365743
+7/17/2020:
+^GSPC closing value was: 3224.7
+^GSPC Percent Change was: 0.2829953974
+Daily Account closing value was: 18035.0
+the Daily Account Percent Change was: -1.919730259
+The differential was: 2.2027256564
+7/20/2020:
+^GSPC closing value was: 3251.8
+^GSPC Percent Change was: 0.8403882531999999
+Daily Account closing value was: 17533.0
+the Daily Account Percent Change was: -2.7834765729999997
+The differential was: 3.6238648261999997
+7/21/2020:
+^GSPC closing value was: 3257.3
+^GSPC Percent Change was: 0.16913709329999999
+Daily Account closing value was: 18105.0
+the Daily Account Percent Change was: 3.262419438
+The differential was: -3.0932823447
+7/31/2020:
+^GSPC closing value was: 3271.1
+^GSPC Percent Change was: 0.7670507054
+Daily Account closing value was: 17954.0
+the Daily Account Percent Change was: -2.418609707
+The differential was: 3.1856604124
+8/3/2020:
+^GSPC closing value was: 3294.6
+^GSPC Percent Change was: 0.7184127663
+Daily Account closing value was: 18145.0
+the Daily Account Percent Change was: 1.063829787
+The differential was: -0.3454170207
+
+3/27/2020:
+^GSPC closing value was: 2541.5
+^GSPC Percent Change was: -3.368693206
+Daily Account closing value was: 13107.0
+the Daily Account Percent Change was: -6.150651582
+The differential was: 2.781958376
+3/30/2020:
+^GSPC closing value was: 2626.6
+^GSPC Percent Change was: 3.3484162900000003
+Daily Account closing value was: 13009.0
+the Daily Account Percent Change was: -0.7476920729
+The differential was: 4.0961083629
+3/31/2020:
+^GSPC closing value was: 2584.6
+^GSPC Percent Change was: -1.599025356
+Daily Account closing value was: 12970.0
+the Daily Account Percent Change was: -0.2997924514
+The differential was: -1.2992329046000002
+4/1/2020:
+^GSPC closing value was: 2470.5
+^GSPC Percent Change was: -4.4146096109999995
+Daily Account closing value was: 12084.0
+the Daily Account Percent Change was: -6.831148805
+The differential was: 2.4165391940000003
+4/2/2020:
+^GSPC closing value was: 2526.9
+^GSPC Percent Change was: 2.282938676
+Daily Account closing value was: 12061.0
+the Daily Account Percent Change was: -0.1903343264
+The differential was: 2.4732730024
+4/3/2020:
+^GSPC closing value was: 2488.6
+^GSPC Percent Change was: -1.515691163
+Daily Account closing value was: 11757.0
+the Daily Account Percent Change was: -2.520520687
+The differential was: 1.0048295239999998
+5/5/2020:
+^GSPC closing value was: 2868.4
+^GSPC Percent Change was: 0.9040700742
+Daily Account closing value was: 14370.0
+the Daily Account Percent Change was: -2.450614351
+The differential was: 3.3546844252
+5/6/2020:
+^GSPC closing value was: 2848.4
+^GSPC Percent Change was: -0.6972528239
+Daily Account closing value was: 13822.0
+the Daily Account Percent Change was: -3.813500348
+The differential was: 3.1162475241
+5/7/2020:
+^GSPC closing value was: 2881.2
+^GSPC Percent Change was: 1.151523662
+Daily Account closing value was: 14295.0
+the Daily Account Percent Change was: 3.422080741
+The differential was: -2.2705570789999996
+5/28/2020:
+^GSPC closing value was: 3029.7
+^GSPC Percent Change was: -0.2107967458
+Daily Account closing value was: 17154.0
+the Daily Account Percent Change was: -3.509956126
+The differential was: 3.2991593802
+5/29/2020:
+^GSPC closing value was: 3044.3
+^GSPC Percent Change was: 0.4818958973
+Daily Account closing value was: 16788.0
+the Daily Account Percent Change was: -2.133613151
+The differential was: 2.6155090483
+6/1/2020:
+^GSPC closing value was: 3055.7
+^GSPC Percent Change was: 0.3744703216
+Daily Account closing value was: 17190.0
+the Daily Account Percent Change was: 2.394567548
+The differential was: -2.0200972264
+6/9/2020:
+^GSPC closing value was: 3207.2
+^GSPC Percent Change was: -0.7796064843
+Daily Account closing value was: 20653.0
+the Daily Account Percent Change was: -4.679928001
+The differential was: 3.9003215167000005
+6/10/2020:
+^GSPC closing value was: 3190.1
+^GSPC Percent Change was: -0.5331753555
+Daily Account closing value was: 19473.0
+the Daily Account Percent Change was: -5.713455672
+The differential was: 5.1802803165
+6/11/2020:
+^GSPC closing value was: 3002.1
+^GSPC Percent Change was: -5.893232187
+Daily Account closing value was: 17454.0
+the Daily Account Percent Change was: -10.36820213
+The differential was: 4.4749699430000005
+6/12/2020:
+^GSPC closing value was: 3041.3
+^GSPC Percent Change was: 1.30575264
+Daily Account closing value was: 18176.0
+the Daily Account Percent Change was: 4.136587602
+The differential was: -2.830834962
+7/17/2020:
+^GSPC closing value was: 3224.7
+^GSPC Percent Change was: 0.2829953974
+Daily Account closing value was: 18035.0
+the Daily Account Percent Change was: -1.919730259
+The differential was: 2.2027256564
+7/20/2020:
+^GSPC closing value was: 3251.8
+^GSPC Percent Change was: 0.8403882531999999
+Daily Account closing value was: 17533.0
+the Daily Account Percent Change was: -2.7834765729999997
+The differential was: 3.6238648261999997
+7/21/2020:
+^GSPC closing value was: 3257.3
+^GSPC Percent Change was: 0.16913709329999999
+Daily Account closing value was: 18105.0
+the Daily Account Percent Change was: 3.262419438
+The differential was: -3.0932823447
+
+3/29/2012:
+^GSPC closing value was: 1403.3
+^GSPC Percent Change was: -0.15652792599999998
+Daily Account closing value was: 12501.0
+the Daily Account Percent Change was: -1.263723245
+The differential was: 1.1071953190000001
+3/30/2012:
+^GSPC closing value was: 1408.5
+^GSPC Percent Change was: 0.3705551201
+Daily Account closing value was: 12344.0
+the Daily Account Percent Change was: -1.255899528
+The differential was: 1.6264546481000002
+4/2/2012:
+^GSPC closing value was: 1419.0
+^GSPC Percent Change was: 0.7454739083999999
+Daily Account closing value was: 12341.0
+the Daily Account Percent Change was: -0.02430330525
+The differential was: 0.76977721365
+4/3/2012:
+^GSPC closing value was: 1413.4
+^GSPC Percent Change was: -0.39464411560000007
+Daily Account closing value was: 12320.0
+the Daily Account Percent Change was: -0.1701644923
+The differential was: -0.22447962330000007
+9/20/2012:
+^GSPC closing value was: 1460.3
+^GSPC Percent Change was: -0.05475326809
+Daily Account closing value was: 12141.0
+the Daily Account Percent Change was: -0.9302325581
+The differential was: 0.87547929001
+9/21/2012:
+^GSPC closing value was: 1460.2
+^GSPC Percent Change was: -0.006847907964000001
+Daily Account closing value was: 12042.0
+the Daily Account Percent Change was: -0.8154188288
+The differential was: 0.808570920836
+9/24/2012:
+^GSPC closing value was: 1456.9
+^GSPC Percent Change was: -0.22599643879999998
+Daily Account closing value was: 11933.0
+the Daily Account Percent Change was: -0.9051652549
+The differential was: 0.6791688161
+9/25/2012:
+^GSPC closing value was: 1441.6
+^GSPC Percent Change was: -1.050175029
+Daily Account closing value was: 11637.0
+the Daily Account Percent Change was: -2.4805162160000003
+The differential was: 1.4303411870000002
+9/26/2012:
+^GSPC closing value was: 1433.3
+^GSPC Percent Change was: -0.5757491676
+Daily Account closing value was: 11555.0
+the Daily Account Percent Change was: -0.7046489645
+The differential was: 0.12889979690000009
+11/3/2014:
+^GSPC closing value was: 2017.8
+^GSPC Percent Change was: -0.014865467520000002
+Daily Account closing value was: 16072.0
+the Daily Account Percent Change was: -0.6552107801
+The differential was: 0.64034531258
+11/4/2014:
+^GSPC closing value was: 2012.1
+^GSPC Percent Change was: -0.2824858757
+Daily Account closing value was: 15869.0
+the Daily Account Percent Change was: -1.263066202
+The differential was: 0.9805803263000001
+11/5/2014:
+^GSPC closing value was: 2023.6
+^GSPC Percent Change was: 0.5715421699000001
+Daily Account closing value was: 15645.0
+the Daily Account Percent Change was: -1.411557124
+The differential was: 1.9830992939
+11/6/2014:
+^GSPC closing value was: 2031.2
+^GSPC Percent Change was: 0.3755682941
+Daily Account closing value was: 15681.0
+the Daily Account Percent Change was: 0.23010546499999998
+The differential was: 0.1454628291
+1/5/2015:
+^GSPC closing value was: 2020.6
+^GSPC Percent Change was: -1.826838986
+Daily Account closing value was: 15103.0
+the Daily Account Percent Change was: -2.924540429
+The differential was: 1.0977014429999998
+1/6/2015:
+^GSPC closing value was: 2002.6
+^GSPC Percent Change was: -0.8908245076
+Daily Account closing value was: 14837.0
+the Daily Account Percent Change was: -1.761239489
+The differential was: 0.8704149814000001
+1/7/2015:
+^GSPC closing value was: 2025.9
+^GSPC Percent Change was: 1.163487466
+Daily Account closing value was: 14928.0
+the Daily Account Percent Change was: 0.613331536
+The differential was: 0.5501559300000001
+1/8/2015:
+^GSPC closing value was: 2062.1
+^GSPC Percent Change was: 1.786860161
+Daily Account closing value was: 15301.0
+the Daily Account Percent Change was: 2.498660236
+The differential was: -0.7118000750000002
+7/2/2015:
+^GSPC closing value was: 2076.8
+^GSPC Percent Change was: -0.028882256670000002
+Daily Account closing value was: 15723.0
+the Daily Account Percent Change was: -0.7323694678
+The differential was: 0.70348721113
+7/6/2015:
+^GSPC closing value was: 2068.8
+^GSPC Percent Change was: -0.3852080123
+Daily Account closing value was: 15517.0
+the Daily Account Percent Change was: -1.310182535
+The differential was: 0.9249745227
+7/7/2015:
+^GSPC closing value was: 2081.3
+^GSPC Percent Change was: 0.6042150038999999
+Daily Account closing value was: 15490.0
+the Daily Account Percent Change was: -0.1740027067
+The differential was: 0.7782177105999999
+7/8/2015:
+^GSPC closing value was: 2046.7
+^GSPC Percent Change was: -1.662422524
+Daily Account closing value was: 15130.0
+the Daily Account Percent Change was: -2.3240800520000002
+The differential was: 0.6616575280000003
+7/9/2015:
+^GSPC closing value was: 2051.3
+^GSPC Percent Change was: 0.2247520399
+Daily Account closing value was: 15243.0
+the Daily Account Percent Change was: 0.746860542
+The differential was: -0.5221085020999999
+7/15/2015:
+^GSPC closing value was: 2107.4
+^GSPC Percent Change was: -0.07112712789
+Daily Account closing value was: 15507.0
+the Daily Account Percent Change was: -1.1663479920000002
+The differential was: 1.09522086411
+7/16/2015:
+^GSPC closing value was: 2124.3
+^GSPC Percent Change was: 0.8019360349000001
+Daily Account closing value was: 15519.0
+the Daily Account Percent Change was: 0.07738440704
+The differential was: 0.72455162786
+7/17/2015:
+^GSPC closing value was: 2126.6
+^GSPC Percent Change was: 0.10827095980000001
+Daily Account closing value was: 15370.0
+the Daily Account Percent Change was: -0.9601134093999999
+The differential was: 1.0683843692
+7/20/2015:
+^GSPC closing value was: 2128.3
+^GSPC Percent Change was: 0.07993981003
+Daily Account closing value was: 15272.0
+the Daily Account Percent Change was: -0.6376057254
+The differential was: 0.71754553543
+7/21/2015:
+^GSPC closing value was: 2119.2
+^GSPC Percent Change was: -0.427571301
+Daily Account closing value was: 15185.0
+the Daily Account Percent Change was: -0.5696699843
+The differential was: 0.14209868330000003
+9/7/2017:
+^GSPC closing value was: 2465.1
+^GSPC Percent Change was: -0.01622388968
+Daily Account closing value was: 18382.0
+the Daily Account Percent Change was: -0.6432084752
+The differential was: 0.62698458552
+9/8/2017:
+^GSPC closing value was: 2461.4
+^GSPC Percent Change was: -0.1500953308
+Daily Account closing value was: 17978.0
+the Daily Account Percent Change was: -2.197802198
+The differential was: 2.0477068672
+9/11/2017:
+^GSPC closing value was: 2488.1
+^GSPC Percent Change was: 1.084748517
+Daily Account closing value was: 18071.0
+the Daily Account Percent Change was: 0.5172989209
+The differential was: 0.5674495961
+9/12/2017:
+^GSPC closing value was: 2496.5
+^GSPC Percent Change was: 0.3376070094
+Daily Account closing value was: 18315.0
+the Daily Account Percent Change was: 1.35022965
+The differential was: -1.0126226406
+10/5/2017:
+^GSPC closing value was: 2552.1
+^GSPC Percent Change was: 0.5674429602
+Daily Account closing value was: 19096.0
+the Daily Account Percent Change was: -0.2715688323
+The differential was: 0.8390117925
+10/6/2017:
+^GSPC closing value was: 2549.3
+^GSPC Percent Change was: -0.1097135692
+Daily Account closing value was: 18944.0
+the Daily Account Percent Change was: -0.7959782153
+The differential was: 0.6862646461
+10/9/2017:
+^GSPC closing value was: 2544.7
+^GSPC Percent Change was: -0.1804416899
+Daily Account closing value was: 18617.0
+the Daily Account Percent Change was: -1.7261402030000002
+The differential was: 1.5456985131
+10/10/2017:
+^GSPC closing value was: 2550.6
+^GSPC Percent Change was: 0.23185444260000002
+Daily Account closing value was: 18617.0
+the Daily Account Percent Change was: 0
+The differential was: 0.23185444260000002
+2/23/2018:
+^GSPC closing value was: 2747.3
+^GSPC Percent Change was: 1.601331361
+Daily Account closing value was: 20099.0
+the Daily Account Percent Change was: 0
+The differential was: 1.601331361
+2/26/2018:
+^GSPC closing value was: 2779.6
+^GSPC Percent Change was: 1.175699778
+Daily Account closing value was: 20219.0
+the Daily Account Percent Change was: 0.5970446291
+The differential was: 0.5786551489
+2/27/2018:
+^GSPC closing value was: 2744.3
+^GSPC Percent Change was: -1.269966902
+Daily Account closing value was: 19836.0
+the Daily Account Percent Change was: -1.894257876
+The differential was: 0.624290974
+2/28/2018:
+^GSPC closing value was: 2713.8
+^GSPC Percent Change was: -1.111394527
+Daily Account closing value was: 19568.0
+the Daily Account Percent Change was: -1.351078847
+The differential was: 0.23968431999999984
+7/10/2018:
+^GSPC closing value was: 2793.8
+^GSPC Percent Change was: 0.3448028159
+Daily Account closing value was: 20710.0
+the Daily Account Percent Change was: -0.2840772305
+The differential was: 0.6288800464
+7/11/2018:
+^GSPC closing value was: 2774.0
+^GSPC Percent Change was: -0.7087121483000001
+Daily Account closing value was: 20390.0
+the Daily Account Percent Change was: -1.545147272
+The differential was: 0.8364351236999998
+7/12/2018:
+^GSPC closing value was: 2798.3
+^GSPC Percent Change was: 0.8759913482
+Daily Account closing value was: 20391.0
+the Daily Account Percent Change was: 0.004904364885
+The differential was: 0.871086983315
+7/13/2018:
+^GSPC closing value was: 2801.3
+^GSPC Percent Change was: 0.10720794769999999
+Daily Account closing value was: 20305.0
+the Daily Account Percent Change was: -0.4217546957
+The differential was: 0.5289626434
+7/16/2018:
+^GSPC closing value was: 2798.4
+^GSPC Percent Change was: -0.1035233642
+Daily Account closing value was: 20052.0
+the Daily Account Percent Change was: -1.245998523
+The differential was: 1.1424751588
+7/17/2018:
+^GSPC closing value was: 2809.6
+^GSPC Percent Change was: 0.40022870209999994
+Daily Account closing value was: 20113.0
+the Daily Account Percent Change was: 0.30420905649999996
+The differential was: 0.09601964559999998
+10/17/2018:
+^GSPC closing value was: 2809.2
+^GSPC Percent Change was: -0.024911918569999997
+Daily Account closing value was: 19046.0
+the Daily Account Percent Change was: -1.116245262
+The differential was: 1.09133334343
+10/18/2018:
+^GSPC closing value was: 2768.8
+^GSPC Percent Change was: -1.438131852
+Daily Account closing value was: 18570.0
+the Daily Account Percent Change was: -2.499212433
+The differential was: 1.061080581
+10/19/2018:
+^GSPC closing value was: 2767.8
+^GSPC Percent Change was: -0.03611672927
+Daily Account closing value was: 18460.0
+the Daily Account Percent Change was: -0.5923532579
+The differential was: 0.5562365286300001
+10/22/2018:
+^GSPC closing value was: 2755.9
+^GSPC Percent Change was: -0.4299443601
+Daily Account closing value was: 18438.0
+the Daily Account Percent Change was: -0.119176598
+The differential was: -0.3107677621
+11/7/2018:
+^GSPC closing value was: 2813.9
+^GSPC Percent Change was: 2.123103724
+Daily Account closing value was: 18913.0
+the Daily Account Percent Change was: 0.4514552794
+The differential was: 1.6716484446
+11/8/2018:
+^GSPC closing value was: 2806.8
+^GSPC Percent Change was: -0.2523188457
+Daily Account closing value was: 18765.0
+the Daily Account Percent Change was: -0.7825305346000001
+The differential was: 0.5302116889000001
+11/9/2018:
+^GSPC closing value was: 2781.0
+^GSPC Percent Change was: -0.9191962377
+Daily Account closing value was: 18481.0
+the Daily Account Percent Change was: -1.513455902
+The differential was: 0.5942596643
+11/12/2018:
+^GSPC closing value was: 2726.2
+^GSPC Percent Change was: -1.970514204
+Daily Account closing value was: 18377.0
+the Daily Account Percent Change was: -0.5627401114999999
+The differential was: -1.4077740925000002
+2/26/2019:
+^GSPC closing value was: 2793.9
+^GSPC Percent Change was: -0.07868101998999999
+Daily Account closing value was: 20048.0
+the Daily Account Percent Change was: -1.158605729
+The differential was: 1.0799247090100002
+2/27/2019:
+^GSPC closing value was: 2792.4
+^GSPC Percent Change was: -0.05368839257
+Daily Account closing value was: 19904.0
+the Daily Account Percent Change was: -0.7182761373
+The differential was: 0.6645877447299999
+2/28/2019:
+^GSPC closing value was: 2784.5
+^GSPC Percent Change was: -0.28291075779999997
+Daily Account closing value was: 19616.0
+the Daily Account Percent Change was: -1.4469453380000001
+The differential was: 1.1640345802
+3/1/2019:
+^GSPC closing value was: 2803.7
+^GSPC Percent Change was: 0.6895313342
+Daily Account closing value was: 19736.0
+the Daily Account Percent Change was: 0.6117455139
+The differential was: 0.07778582030000003
+4/30/2019:
+^GSPC closing value was: 2945.8
+^GSPC Percent Change was: 0.09514101257
+Daily Account closing value was: 20084.0
+the Daily Account Percent Change was: -0.5841005841
+The differential was: 0.67924159667
+5/1/2019:
+^GSPC closing value was: 2923.7
+^GSPC Percent Change was: -0.7502206531
+Daily Account closing value was: 19827.0
+the Daily Account Percent Change was: -1.2796255730000001
+The differential was: 0.5294049199000002
+5/2/2019:
+^GSPC closing value was: 2917.5
+^GSPC Percent Change was: -0.2120600609
+Daily Account closing value was: 19665.0
+the Daily Account Percent Change was: -0.8170676349999999
+The differential was: 0.6050075740999998
+5/3/2019:
+^GSPC closing value was: 2945.6
+^GSPC Percent Change was: 0.9631533847000001
+Daily Account closing value was: 19935.0
+the Daily Account Percent Change was: 1.372997712
+The differential was: -0.4098443273
+7/8/2019:
+^GSPC closing value was: 2975.9
+^GSPC Percent Change was: -0.48488496519999996
+Daily Account closing value was: 19434.0
+the Daily Account Percent Change was: -1.9079345849999998
+The differential was: 1.4230496197999998
+7/9/2019:
+^GSPC closing value was: 2979.6
+^GSPC Percent Change was: 0.12433213480000001
+Daily Account closing value was: 19281.0
+the Daily Account Percent Change was: -0.7872800246999999
+The differential was: 0.9116121595
+7/10/2019:
+^GSPC closing value was: 2993.1
+^GSPC Percent Change was: 0.4530809505
+Daily Account closing value was: 19236.0
+the Daily Account Percent Change was: -0.2333903843
+The differential was: 0.6864713348
+7/11/2019:
+^GSPC closing value was: 2999.9
+^GSPC Percent Change was: 0.22718920180000002
+Daily Account closing value was: 19118.0
+the Daily Account Percent Change was: -0.6134331462
+The differential was: 0.840622348
+7/12/2019:
+^GSPC closing value was: 3013.8
+^GSPC Percent Change was: 0.46334877830000004
+Daily Account closing value was: 19575.0
+the Daily Account Percent Change was: 2.390417408
+The differential was: -1.9270686296999997
+7/25/2019:
+^GSPC closing value was: 3003.7
+^GSPC Percent Change was: -0.5265598092
+Daily Account closing value was: 19793.0
+the Daily Account Percent Change was: -1.414553967
+The differential was: 0.8879941578
+7/26/2019:
+^GSPC closing value was: 3025.9
+^GSPC Percent Change was: 0.7390884576
+Daily Account closing value was: 19822.0
+the Daily Account Percent Change was: 0.1465164452
+The differential was: 0.5925720124
+7/29/2019:
+^GSPC closing value was: 3021.0
+^GSPC Percent Change was: -0.16193529199999998
+Daily Account closing value was: 19664.0
+the Daily Account Percent Change was: -0.7970941377999999
+The differential was: 0.6351588457999999
+7/30/2019:
+^GSPC closing value was: 3013.2
+^GSPC Percent Change was: -0.25819265140000003
+Daily Account closing value was: 19710.0
+the Daily Account Percent Change was: 0.23393002440000002
+The differential was: -0.4921226758
+2/6/2020:
+^GSPC closing value was: 3345.8
+^GSPC Percent Change was: 0.332863526
+Daily Account closing value was: 20029.0
+the Daily Account Percent Change was: -1.01314619
+The differential was: 1.3460097160000002
+2/7/2020:
+^GSPC closing value was: 3327.7
+^GSPC Percent Change was: -0.540976747
+Daily Account closing value was: 19680.0
+the Daily Account Percent Change was: -1.7424734139999998
+The differential was: 1.2014966669999998
+2/10/2020:
+^GSPC closing value was: 3352.1
+^GSPC Percent Change was: 0.7332391742000001
+Daily Account closing value was: 19485.0
+the Daily Account Percent Change was: -0.9908536585000001
+The differential was: 1.7240928327000002
+2/11/2020:
+^GSPC closing value was: 3357.8
+^GSPC Percent Change was: 0.17004265980000002
+Daily Account closing value was: 19749.0
+the Daily Account Percent Change was: 1.354888376
+The differential was: -1.1848457162
+3/9/2020:
+^GSPC closing value was: 2746.6
+^GSPC Percent Change was: -7.596554972
+Daily Account closing value was: 15008.0
+the Daily Account Percent Change was: -9.975406394
+The differential was: 2.3788514220000003
+3/10/2020:
+^GSPC closing value was: 2882.2
+^GSPC Percent Change was: 4.937013034
+Daily Account closing value was: 15653.0
+the Daily Account Percent Change was: 4.297707889
+The differential was: 0.6393051449999998
+3/11/2020:
+^GSPC closing value was: 2741.4
+^GSPC Percent Change was: -4.885157172
+Daily Account closing value was: 14686.0
+the Daily Account Percent Change was: -6.177729509000001
+The differential was: 1.2925723370000002
+3/12/2020:
+^GSPC closing value was: 2480.6
+^GSPC Percent Change was: -9.51338732
+Daily Account closing value was: 13128.0
+the Daily Account Percent Change was: -10.60874302
+The differential was: 1.0953557000000007
+3/13/2020:
+^GSPC closing value was: 2711.0
+^GSPC Percent Change was: 9.288075465999999
+Daily Account closing value was: 14132.0
+the Daily Account Percent Change was: 7.647775746000001
+The differential was: 1.640299719999998
+3/16/2020:
+^GSPC closing value was: 2386.1
+^GSPC Percent Change was: -11.98450756
+Daily Account closing value was: 12916.0
+the Daily Account Percent Change was: -8.604585338
+The differential was: -3.379922222000001
+3/20/2020:
+^GSPC closing value was: 2304.9
+^GSPC Percent Change was: -4.337179381
+Daily Account closing value was: 12288.0
+the Daily Account Percent Change was: -4.994587908
+The differential was: 0.6574085269999994
+3/23/2020:
+^GSPC closing value was: 2237.4
+^GSPC Percent Change was: -2.928543538
+Daily Account closing value was: 11866.0
+the Daily Account Percent Change was: -3.434244792
+The differential was: 0.5057012539999999
+3/24/2020:
+^GSPC closing value was: 2447.3
+^GSPC Percent Change was: 9.381424868
+Daily Account closing value was: 12790.0
+the Daily Account Percent Change was: 7.786954323000001
+The differential was: 1.5944705449999992
+3/25/2020:
+^GSPC closing value was: 2475.6
+^GSPC Percent Change was: 1.156376415
+Daily Account closing value was: 13242.0
+the Daily Account Percent Change was: 3.534010946
+The differential was: -2.377634531
+3/26/2020:
+^GSPC closing value was: 2630.1
+^GSPC Percent Change was: 6.240911294
+Daily Account closing value was: 13966.0
+the Daily Account Percent Change was: 5.467452047
+The differential was: 0.7734592469999999
+3/27/2020:
+^GSPC closing value was: 2541.5
+^GSPC Percent Change was: -3.368693206
+Daily Account closing value was: 13107.0
+the Daily Account Percent Change was: -6.150651582
+The differential was: 2.781958376
+3/30/2020:
+^GSPC closing value was: 2626.6
+^GSPC Percent Change was: 3.3484162900000003
+Daily Account closing value was: 13009.0
+the Daily Account Percent Change was: -0.7476920729
+The differential was: 4.0961083629
+3/31/2020:
+^GSPC closing value was: 2584.6
+^GSPC Percent Change was: -1.599025356
+Daily Account closing value was: 12970.0
+the Daily Account Percent Change was: -0.2997924514
+The differential was: -1.2992329046000002
+4/1/2020:
+^GSPC closing value was: 2470.5
+^GSPC Percent Change was: -4.4146096109999995
+Daily Account closing value was: 12084.0
+the Daily Account Percent Change was: -6.831148805
+The differential was: 2.4165391940000003
+4/2/2020:
+^GSPC closing value was: 2526.9
+^GSPC Percent Change was: 2.282938676
+Daily Account closing value was: 12061.0
+the Daily Account Percent Change was: -0.1903343264
+The differential was: 2.4732730024
+4/3/2020:
+^GSPC closing value was: 2488.6
+^GSPC Percent Change was: -1.515691163
+Daily Account closing value was: 11757.0
+the Daily Account Percent Change was: -2.520520687
+The differential was: 1.0048295239999998
+4/6/2020:
+^GSPC closing value was: 2663.7
+^GSPC Percent Change was: 7.0360845460000006
+Daily Account closing value was: 12793.0
+the Daily Account Percent Change was: 8.81177171
+The differential was: -1.7756871639999998
+4/13/2020:
+^GSPC closing value was: 2761.6
+^GSPC Percent Change was: -1.010825149
+Daily Account closing value was: 13902.0
+the Daily Account Percent Change was: -4.5782140159999996
+The differential was: 3.5673888669999996
+4/14/2020:
+^GSPC closing value was: 2846.1
+^GSPC Percent Change was: 3.059820394
+Daily Account closing value was: 14114.0
+the Daily Account Percent Change was: 1.5249604369999998
+The differential was: 1.534859957
+4/15/2020:
+^GSPC closing value was: 2783.4
+^GSPC Percent Change was: -2.203014652
+Daily Account closing value was: 13594.0
+the Daily Account Percent Change was: -3.684285107
+The differential was: 1.4812704550000002
+4/16/2020:
+^GSPC closing value was: 2799.6
+^GSPC Percent Change was: 0.5820219875
+Daily Account closing value was: 13429.0
+the Daily Account Percent Change was: -1.213770781
+The differential was: 1.7957927685000001
+4/17/2020:
+^GSPC closing value was: 2874.6
+^GSPC Percent Change was: 2.6789541359999998
+Daily Account closing value was: 14102.0
+the Daily Account Percent Change was: 5.011542185
+The differential was: -2.332588049
+5/4/2020:
+^GSPC closing value was: 2842.7
+^GSPC Percent Change was: 0.4239234112
+Daily Account closing value was: 14731.0
+the Daily Account Percent Change was: -1.313056877
+The differential was: 1.7369802881999998
+5/5/2020:
+^GSPC closing value was: 2868.4
+^GSPC Percent Change was: 0.9040700742
+Daily Account closing value was: 14370.0
+the Daily Account Percent Change was: -2.450614351
+The differential was: 3.3546844252
+5/6/2020:
+^GSPC closing value was: 2848.4
+^GSPC Percent Change was: -0.6972528239
+Daily Account closing value was: 13822.0
+the Daily Account Percent Change was: -3.813500348
+The differential was: 3.1162475241
+5/7/2020:
+^GSPC closing value was: 2881.2
+^GSPC Percent Change was: 1.151523662
+Daily Account closing value was: 14295.0
+the Daily Account Percent Change was: 3.422080741
+The differential was: -2.2705570789999996
+5/11/2020:
+^GSPC closing value was: 2930.2
+^GSPC Percent Change was: 0.013652809069999999
+Daily Account closing value was: 14773.0
+the Daily Account Percent Change was: -2.751629254
+The differential was: 2.76528206307
+5/12/2020:
+^GSPC closing value was: 2870.1
+^GSPC Percent Change was: -2.051054536
+Daily Account closing value was: 14204.0
+the Daily Account Percent Change was: -3.8516212010000004
+The differential was: 1.8005666650000003
+5/13/2020:
+^GSPC closing value was: 2820.0
+^GSPC Percent Change was: -1.745583778
+Daily Account closing value was: 13637.0
+the Daily Account Percent Change was: -3.9918332860000003
+The differential was: 2.246249508
+5/14/2020:
+^GSPC closing value was: 2852.5
+^GSPC Percent Change was: 1.15248227
+Daily Account closing value was: 13772.0
+the Daily Account Percent Change was: 0.9899538022000001
+The differential was: 0.16252846779999985
+6/9/2020:
+^GSPC closing value was: 3207.2
+^GSPC Percent Change was: -0.7796064843
+Daily Account closing value was: 20653.0
+the Daily Account Percent Change was: -4.679928001
+The differential was: 3.9003215167000005
+6/10/2020:
+^GSPC closing value was: 3190.1
+^GSPC Percent Change was: -0.5331753555
+Daily Account closing value was: 19473.0
+the Daily Account Percent Change was: -5.713455672
+The differential was: 5.1802803165
+6/11/2020:
+^GSPC closing value was: 3002.1
+^GSPC Percent Change was: -5.893232187
+Daily Account closing value was: 17454.0
+the Daily Account Percent Change was: -10.36820213
+The differential was: 4.4749699430000005
+6/12/2020:
+^GSPC closing value was: 3041.3
+^GSPC Percent Change was: 1.30575264
+Daily Account closing value was: 18176.0
+the Daily Account Percent Change was: 4.136587602
+The differential was: -2.830834962
+6/17/2020:
+^GSPC closing value was: 3113.5
+^GSPC Percent Change was: -0.3584344097
+Daily Account closing value was: 18199.0
+the Daily Account Percent Change was: -3.140135185
+The differential was: 2.7817007753
+6/18/2020:
+^GSPC closing value was: 3115.3
+^GSPC Percent Change was: 0.057812750919999996
+Daily Account closing value was: 18077.0
+the Daily Account Percent Change was: -0.6703665037000001
+The differential was: 0.7281792546200001
+6/19/2020:
+^GSPC closing value was: 3097.7
+^GSPC Percent Change was: -0.564953616
+Daily Account closing value was: 17857.0
+the Daily Account Percent Change was: -1.217016098
+The differential was: 0.6520624819999999
+6/22/2020:
+^GSPC closing value was: 3117.9
+^GSPC Percent Change was: 0.6520967168999999
+Daily Account closing value was: 17946.0
+the Daily Account Percent Change was: 0.4984039872
+The differential was: 0.15369272969999992
+
+3/13/2012:
+^GSPC closing value was: 1395.9
+^GSPC Percent Change was: 1.8087666839999998
+Daily Account closing value was: 12569.0
+the Daily Account Percent Change was: 1.224128211
+The differential was: 0.5846384729999998
+3/14/2012:
+^GSPC closing value was: 1394.3
+^GSPC Percent Change was: -0.11462139119999999
+Daily Account closing value was: 12454.0
+the Daily Account Percent Change was: -0.9149494789
+The differential was: 0.8003280877
+3/15/2012:
+^GSPC closing value was: 1402.6
+^GSPC Percent Change was: 0.5952807861
+Daily Account closing value was: 12637.0
+the Daily Account Percent Change was: 1.469407419
+The differential was: -0.8741266328999999
+3/29/2012:
+^GSPC closing value was: 1403.3
+^GSPC Percent Change was: -0.15652792599999998
+Daily Account closing value was: 12501.0
+the Daily Account Percent Change was: -1.263723245
+The differential was: 1.1071953190000001
+3/30/2012:
+^GSPC closing value was: 1408.5
+^GSPC Percent Change was: 0.3705551201
+Daily Account closing value was: 12344.0
+the Daily Account Percent Change was: -1.255899528
+The differential was: 1.6264546481000002
+4/2/2012:
+^GSPC closing value was: 1419.0
+^GSPC Percent Change was: 0.7454739083999999
+Daily Account closing value was: 12341.0
+the Daily Account Percent Change was: -0.02430330525
+The differential was: 0.76977721365
+4/3/2012:
+^GSPC closing value was: 1413.4
+^GSPC Percent Change was: -0.39464411560000007
+Daily Account closing value was: 12320.0
+the Daily Account Percent Change was: -0.1701644923
+The differential was: -0.22447962330000007
+7/10/2012:
+^GSPC closing value was: 1341.5
+^GSPC Percent Change was: -0.8133086876
+Daily Account closing value was: 11188.0
+the Daily Account Percent Change was: -1.618009145
+The differential was: 0.8047004574000001
+7/11/2012:
+^GSPC closing value was: 1341.4
+^GSPC Percent Change was: -0.007454342154
+Daily Account closing value was: 11061.0
+the Daily Account Percent Change was: -1.135144798
+The differential was: 1.127690455846
+7/12/2012:
+^GSPC closing value was: 1334.8
+^GSPC Percent Change was: -0.4920232593
+Daily Account closing value was: 11039.0
+the Daily Account Percent Change was: -0.1988970256
+The differential was: -0.2931262337
+9/17/2012:
+^GSPC closing value was: 1461.2
+^GSPC Percent Change was: -0.3138218038
+Daily Account closing value was: 12374.0
+the Daily Account Percent Change was: -1.7858560200000002
+The differential was: 1.4720342162000002
+9/18/2012:
+^GSPC closing value was: 1459.3
+^GSPC Percent Change was: -0.1300301122
+Daily Account closing value was: 12269.0
+the Daily Account Percent Change was: -0.8485534184999999
+The differential was: 0.7185233062999998
+9/19/2012:
+^GSPC closing value was: 1461.1
+^GSPC Percent Change was: 0.1233468101
+Daily Account closing value was: 12255.0
+the Daily Account Percent Change was: -0.11410872929999999
+The differential was: 0.23745553939999997
+9/20/2012:
+^GSPC closing value was: 1460.3
+^GSPC Percent Change was: -0.05475326809
+Daily Account closing value was: 12141.0
+the Daily Account Percent Change was: -0.9302325581
+The differential was: 0.87547929001
+9/21/2012:
+^GSPC closing value was: 1460.2
+^GSPC Percent Change was: -0.006847907964000001
+Daily Account closing value was: 12042.0
+the Daily Account Percent Change was: -0.8154188288
+The differential was: 0.808570920836
+9/24/2012:
+^GSPC closing value was: 1456.9
+^GSPC Percent Change was: -0.22599643879999998
+Daily Account closing value was: 11933.0
+the Daily Account Percent Change was: -0.9051652549
+The differential was: 0.6791688161
+9/25/2012:
+^GSPC closing value was: 1441.6
+^GSPC Percent Change was: -1.050175029
+Daily Account closing value was: 11637.0
+the Daily Account Percent Change was: -2.4805162160000003
+The differential was: 1.4303411870000002
+9/26/2012:
+^GSPC closing value was: 1433.3
+^GSPC Percent Change was: -0.5757491676
+Daily Account closing value was: 11555.0
+the Daily Account Percent Change was: -0.7046489645
+The differential was: 0.12889979690000009
+4/1/2013:
+^GSPC closing value was: 1562.2
+^GSPC Percent Change was: -0.44608717820000005
+Daily Account closing value was: 13639.0
+the Daily Account Percent Change was: -0.9513435004
+The differential was: 0.5052563221999999
+4/2/2013:
+^GSPC closing value was: 1570.3
+^GSPC Percent Change was: 0.5184995519
+Daily Account closing value was: 13605.0
+the Daily Account Percent Change was: -0.2492851382
+The differential was: 0.7677846901
+4/3/2013:
+^GSPC closing value was: 1553.7
+^GSPC Percent Change was: -1.057122843
+Daily Account closing value was: 13447.0
+the Daily Account Percent Change was: -1.161337743
+The differential was: 0.10421490000000011
+4/12/2013:
+^GSPC closing value was: 1588.8
+^GSPC Percent Change was: -0.2886908498
+Daily Account closing value was: 13631.0
+the Daily Account Percent Change was: -1.424645647
+The differential was: 1.1359547972
+4/15/2013:
+^GSPC closing value was: 1552.4
+^GSPC Percent Change was: -2.291037261
+Daily Account closing value was: 13242.0
+the Daily Account Percent Change was: -2.853789157
+The differential was: 0.562751896
+4/16/2013:
+^GSPC closing value was: 1574.6
+^GSPC Percent Change was: 1.430043803
+Daily Account closing value was: 13467.0
+the Daily Account Percent Change was: 1.699139103
+The differential was: -0.26909530000000004
+8/6/2013:
+^GSPC closing value was: 1697.4
+^GSPC Percent Change was: -0.5682151016
+Daily Account closing value was: 14827.0
+the Daily Account Percent Change was: -2.0220709709999998
+The differential was: 1.4538558694
+8/7/2013:
+^GSPC closing value was: 1690.9
+^GSPC Percent Change was: -0.382938612
+Daily Account closing value was: 14647.0
+the Daily Account Percent Change was: -1.214001484
+The differential was: 0.831062872
+8/8/2013:
+^GSPC closing value was: 1697.5
+^GSPC Percent Change was: 0.39032467919999997
+Daily Account closing value was: 14695.0
+the Daily Account Percent Change was: 0.3277121595
+The differential was: 0.06261251969999998
+12/3/2013:
+^GSPC closing value was: 1795.2
+^GSPC Percent Change was: -0.3165084125
+Daily Account closing value was: 15558.0
+the Daily Account Percent Change was: -0.8349799222
+The differential was: 0.5184715096999999
+12/4/2013:
+^GSPC closing value was: 1792.8
+^GSPC Percent Change was: -0.1336898396
+Daily Account closing value was: 15414.0
+the Daily Account Percent Change was: -0.9255688392
+The differential was: 0.7918789996
+12/5/2013:
+^GSPC closing value was: 1785.0
+^GSPC Percent Change was: -0.4350736278
+Daily Account closing value was: 15417.0
+the Daily Account Percent Change was: 0.019462826000000003
+The differential was: -0.45453645379999996
+2/3/2014:
+^GSPC closing value was: 1741.9
+^GSPC Percent Change was: -2.283181869
+Daily Account closing value was: 14734.0
+the Daily Account Percent Change was: -3.10403788
+The differential was: 0.820856011
+2/4/2014:
+^GSPC closing value was: 1755.2
+^GSPC Percent Change was: 0.763534072
+Daily Account closing value was: 14750.0
+the Daily Account Percent Change was: 0.10859237140000001
+The differential was: 0.6549417006
+2/5/2014:
+^GSPC closing value was: 1751.6
+^GSPC Percent Change was: -0.2051048314
+Daily Account closing value was: 14708.0
+the Daily Account Percent Change was: -0.2847457627
+The differential was: 0.07964093130000002
+2/27/2014:
+^GSPC closing value was: 1854.3
+^GSPC Percent Change was: 0.49317147190000005
+Daily Account closing value was: 16366.0
+the Daily Account Percent Change was: -0.27420632500000003
+The differential was: 0.7673777969000001
+2/28/2014:
+^GSPC closing value was: 1859.4
+^GSPC Percent Change was: 0.2750364019
+Daily Account closing value was: 16285.0
+the Daily Account Percent Change was: -0.4949285103
+The differential was: 0.7699649122000001
+3/3/2014:
+^GSPC closing value was: 1845.7
+^GSPC Percent Change was: -0.7367968162
+Daily Account closing value was: 16188.0
+the Daily Account Percent Change was: -0.5956401597
+The differential was: -0.1411566565000001
+4/11/2014:
+^GSPC closing value was: 1815.7
+^GSPC Percent Change was: -0.9492117179
+Daily Account closing value was: 16223.0
+the Daily Account Percent Change was: -1.726435668
+The differential was: 0.7772239500999999
+4/14/2014:
+^GSPC closing value was: 1830.6
+^GSPC Percent Change was: 0.8206201465
+Daily Account closing value was: 16268.0
+the Daily Account Percent Change was: 0.277383961
+The differential was: 0.5432361855000001
+4/15/2014:
+^GSPC closing value was: 1843.0
+^GSPC Percent Change was: 0.6773735387
+Daily Account closing value was: 16385.0
+the Daily Account Percent Change was: 0.7192033440000001
+The differential was: -0.04182980530000002
+5/13/2014:
+^GSPC closing value was: 1897.4
+^GSPC Percent Change was: 0.03690620551
+Daily Account closing value was: 16912.0
+the Daily Account Percent Change was: -0.6695641958999999
+The differential was: 0.70647040141
+5/14/2014:
+^GSPC closing value was: 1888.5
+^GSPC Percent Change was: -0.46906292819999995
+Daily Account closing value was: 16688.0
+the Daily Account Percent Change was: -1.324503311
+The differential was: 0.8554403828
+5/15/2014:
+^GSPC closing value was: 1870.8
+^GSPC Percent Change was: -0.9372517871
+Daily Account closing value was: 16631.0
+the Daily Account Percent Change was: -0.3415627996
+The differential was: -0.5956889875
+7/7/2014:
+^GSPC closing value was: 1977.7
+^GSPC Percent Change was: -0.3878311675
+Daily Account closing value was: 17388.0
+the Daily Account Percent Change was: -0.9230769231
+The differential was: 0.5352457556
+7/8/2014:
+^GSPC closing value was: 1963.7
+^GSPC Percent Change was: -0.707893007
+Daily Account closing value was: 17166.0
+the Daily Account Percent Change was: -1.276742581
+The differential was: 0.5688495739999999
+7/9/2014:
+^GSPC closing value was: 1972.8
+^GSPC Percent Change was: 0.46341090799999995
+Daily Account closing value was: 17164.0
+the Daily Account Percent Change was: -0.0116509379
+The differential was: 0.47506184589999995
+7/25/2014:
+^GSPC closing value was: 1978.3
+^GSPC Percent Change was: -0.4879275654
+Daily Account closing value was: 16828.0
+the Daily Account Percent Change was: -1.9404463609999998
+The differential was: 1.4525187955999999
+7/28/2014:
+^GSPC closing value was: 1978.9
+^GSPC Percent Change was: 0.03032907041
+Daily Account closing value was: 16733.0
+the Daily Account Percent Change was: -0.5645352983
+The differential was: 0.59486436871
+7/29/2014:
+^GSPC closing value was: 1969.9
+^GSPC Percent Change was: -0.4547981202
+Daily Account closing value was: 16797.0
+the Daily Account Percent Change was: 0.3824777386
+The differential was: -0.8372758588
+9/30/2014:
+^GSPC closing value was: 1972.3
+^GSPC Percent Change was: -0.27808676309999997
+Daily Account closing value was: 15592.0
+the Daily Account Percent Change was: -1.347674786
+The differential was: 1.0695880229
+10/1/2014:
+^GSPC closing value was: 1946.2
+^GSPC Percent Change was: -1.323328094
+Daily Account closing value was: 15304.0
+the Daily Account Percent Change was: -1.847101077
+The differential was: 0.523772983
+10/2/2014:
+^GSPC closing value was: 1946.2
+^GSPC Percent Change was: 0
+Daily Account closing value was: 15412.0
+the Daily Account Percent Change was: 0.7056978568
+The differential was: -0.7056978568
+11/3/2014:
+^GSPC closing value was: 2017.8
+^GSPC Percent Change was: -0.014865467520000002
+Daily Account closing value was: 16072.0
+the Daily Account Percent Change was: -0.6552107801
+The differential was: 0.64034531258
+11/4/2014:
+^GSPC closing value was: 2012.1
+^GSPC Percent Change was: -0.2824858757
+Daily Account closing value was: 15869.0
+the Daily Account Percent Change was: -1.263066202
+The differential was: 0.9805803263000001
+11/5/2014:
+^GSPC closing value was: 2023.6
+^GSPC Percent Change was: 0.5715421699000001
+Daily Account closing value was: 15645.0
+the Daily Account Percent Change was: -1.411557124
+The differential was: 1.9830992939
+11/6/2014:
+^GSPC closing value was: 2031.2
+^GSPC Percent Change was: 0.3755682941
+Daily Account closing value was: 15681.0
+the Daily Account Percent Change was: 0.23010546499999998
+The differential was: 0.1454628291
+12/12/2014:
+^GSPC closing value was: 2002.3
+^GSPC Percent Change was: -1.6213825970000002
+Daily Account closing value was: 14992.0
+the Daily Account Percent Change was: -2.351331987
+The differential was: 0.7299493899999998
+12/15/2014:
+^GSPC closing value was: 1989.6
+^GSPC Percent Change was: -0.6342705888
+Daily Account closing value was: 14818.0
+the Daily Account Percent Change was: -1.160618997
+The differential was: 0.5263484082000001
+12/16/2014:
+^GSPC closing value was: 1972.7
+^GSPC Percent Change was: -0.8494169681999999
+Daily Account closing value was: 14812.0
+the Daily Account Percent Change was: -0.04049129437
+The differential was: -0.8089256738299999
+1/5/2015:
+^GSPC closing value was: 2020.6
+^GSPC Percent Change was: -1.826838986
+Daily Account closing value was: 15103.0
+the Daily Account Percent Change was: -2.924540429
+The differential was: 1.0977014429999998
+1/6/2015:
+^GSPC closing value was: 2002.6
+^GSPC Percent Change was: -0.8908245076
+Daily Account closing value was: 14837.0
+the Daily Account Percent Change was: -1.761239489
+The differential was: 0.8704149814000001
+1/7/2015:
+^GSPC closing value was: 2025.9
+^GSPC Percent Change was: 1.163487466
+Daily Account closing value was: 14928.0
+the Daily Account Percent Change was: 0.613331536
+The differential was: 0.5501559300000001
+1/8/2015:
+^GSPC closing value was: 2062.1
+^GSPC Percent Change was: 1.786860161
+Daily Account closing value was: 15301.0
+the Daily Account Percent Change was: 2.498660236
+The differential was: -0.7118000750000002
+1/9/2015:
+^GSPC closing value was: 2044.8
+^GSPC Percent Change was: -0.8389505844
+Daily Account closing value was: 15044.0
+the Daily Account Percent Change was: -1.6796287819999998
+The differential was: 0.8406781975999997
+1/12/2015:
+^GSPC closing value was: 2028.3
+^GSPC Percent Change was: -0.8069248826000001
+Daily Account closing value was: 14778.0
+the Daily Account Percent Change was: -1.7681467690000001
+The differential was: 0.9612218864000001
+1/13/2015:
+^GSPC closing value was: 2023.0
+^GSPC Percent Change was: -0.2613025687
+Daily Account closing value was: 14694.0
+the Daily Account Percent Change was: -0.5684125051
+The differential was: 0.30710993639999995
+1/28/2015:
+^GSPC closing value was: 2002.2
+^GSPC Percent Change was: -1.350019708
+Daily Account closing value was: 14879.0
+the Daily Account Percent Change was: -2.490333574
+The differential was: 1.140313866
+1/29/2015:
+^GSPC closing value was: 2021.3
+^GSPC Percent Change was: 0.9539506543
+Daily Account closing value was: 14784.0
+the Daily Account Percent Change was: -0.6384837691
+The differential was: 1.5924344234
+1/30/2015:
+^GSPC closing value was: 1995.0
+^GSPC Percent Change was: -1.301142829
+Daily Account closing value was: 14788.0
+the Daily Account Percent Change was: 0.02705627706
+The differential was: -1.32819910606
+2/10/2015:
+^GSPC closing value was: 2068.6
+^GSPC Percent Change was: 1.070015146
+Daily Account closing value was: 15950.0
+the Daily Account Percent Change was: -0.4058694973
+The differential was: 1.4758846433000001
+2/11/2015:
+^GSPC closing value was: 2068.5
+^GSPC Percent Change was: -0.004834187373
+Daily Account closing value was: 15846.0
+the Daily Account Percent Change was: -0.6520376176
+The differential was: 0.647203430227
+2/12/2015:
+^GSPC closing value was: 2088.5
+^GSPC Percent Change was: 0.9668842155999999
+Daily Account closing value was: 16091.0
+the Daily Account Percent Change was: 1.546131516
+The differential was: -0.5792473004
+7/2/2015:
+^GSPC closing value was: 2076.8
+^GSPC Percent Change was: -0.028882256670000002
+Daily Account closing value was: 15723.0
+the Daily Account Percent Change was: -0.7323694678
+The differential was: 0.70348721113
+7/6/2015:
+^GSPC closing value was: 2068.8
+^GSPC Percent Change was: -0.3852080123
+Daily Account closing value was: 15517.0
+the Daily Account Percent Change was: -1.310182535
+The differential was: 0.9249745227
+7/7/2015:
+^GSPC closing value was: 2081.3
+^GSPC Percent Change was: 0.6042150038999999
+Daily Account closing value was: 15490.0
+the Daily Account Percent Change was: -0.1740027067
+The differential was: 0.7782177105999999
+7/8/2015:
+^GSPC closing value was: 2046.7
+^GSPC Percent Change was: -1.662422524
+Daily Account closing value was: 15130.0
+the Daily Account Percent Change was: -2.3240800520000002
+The differential was: 0.6616575280000003
+7/9/2015:
+^GSPC closing value was: 2051.3
+^GSPC Percent Change was: 0.2247520399
+Daily Account closing value was: 15243.0
+the Daily Account Percent Change was: 0.746860542
+The differential was: -0.5221085020999999
+7/15/2015:
+^GSPC closing value was: 2107.4
+^GSPC Percent Change was: -0.07112712789
+Daily Account closing value was: 15507.0
+the Daily Account Percent Change was: -1.1663479920000002
+The differential was: 1.09522086411
+7/16/2015:
+^GSPC closing value was: 2124.3
+^GSPC Percent Change was: 0.8019360349000001
+Daily Account closing value was: 15519.0
+the Daily Account Percent Change was: 0.07738440704
+The differential was: 0.72455162786
+7/17/2015:
+^GSPC closing value was: 2126.6
+^GSPC Percent Change was: 0.10827095980000001
+Daily Account closing value was: 15370.0
+the Daily Account Percent Change was: -0.9601134093999999
+The differential was: 1.0683843692
+7/20/2015:
+^GSPC closing value was: 2128.3
+^GSPC Percent Change was: 0.07993981003
+Daily Account closing value was: 15272.0
+the Daily Account Percent Change was: -0.6376057254
+The differential was: 0.71754553543
+7/21/2015:
+^GSPC closing value was: 2119.2
+^GSPC Percent Change was: -0.427571301
+Daily Account closing value was: 15185.0
+the Daily Account Percent Change was: -0.5696699843
+The differential was: 0.14209868330000003
+8/26/2015:
+^GSPC closing value was: 1940.5
+^GSPC Percent Change was: 3.90340544
+Daily Account closing value was: 14555.0
+the Daily Account Percent Change was: 2.514438653
+The differential was: 1.3889667869999998
+8/27/2015:
+^GSPC closing value was: 1987.7
+^GSPC Percent Change was: 2.4323627930000002
+Daily Account closing value was: 14834.0
+the Daily Account Percent Change was: 1.916867056
+The differential was: 0.5154957370000002
+8/28/2015:
+^GSPC closing value was: 1988.9
+^GSPC Percent Change was: 0.06037128339
+Daily Account closing value was: 14890.0
+the Daily Account Percent Change was: 0.3775111231
+The differential was: -0.31713983971000004
+4/1/2016:
+^GSPC closing value was: 2072.8
+^GSPC Percent Change was: 0.6360149536
+Daily Account closing value was: 15766.0
+the Daily Account Percent Change was: -0.04437963609
+The differential was: 0.68039458969
+4/4/2016:
+^GSPC closing value was: 2066.1
+^GSPC Percent Change was: -0.32323427250000003
+Daily Account closing value was: 15513.0
+the Daily Account Percent Change was: -1.6047190159999998
+The differential was: 1.2814847434999996
+4/5/2016:
+^GSPC closing value was: 2045.2
+^GSPC Percent Change was: -1.011567688
+Daily Account closing value was: 15411.0
+the Daily Account Percent Change was: -0.6575130536
+The differential was: -0.35405463439999996
+5/17/2016:
+^GSPC closing value was: 2047.2
+^GSPC Percent Change was: -0.9435331688
+Daily Account closing value was: 15220.0
+the Daily Account Percent Change was: -1.654174205
+The differential was: 0.7106410361999999
+5/18/2016:
+^GSPC closing value was: 2047.6
+^GSPC Percent Change was: 0.01953888238
+Daily Account closing value was: 15109.0
+the Daily Account Percent Change was: -0.729303548
+The differential was: 0.74884243038
+5/19/2016:
+^GSPC closing value was: 2040.0
+^GSPC Percent Change was: -0.37116624340000004
+Daily Account closing value was: 15150.0
+the Daily Account Percent Change was: 0.2713614402
+The differential was: -0.6425276836
+6/10/2016:
+^GSPC closing value was: 2096.1
+^GSPC Percent Change was: -0.9170408886999999
+Daily Account closing value was: 15529.0
+the Daily Account Percent Change was: -1.77114302
+The differential was: 0.8541021313000001
+6/13/2016:
+^GSPC closing value was: 2079.1
+^GSPC Percent Change was: -0.8110300080999999
+Daily Account closing value was: 15299.0
+the Daily Account Percent Change was: -1.481099878
+The differential was: 0.6700698699000001
+6/14/2016:
+^GSPC closing value was: 2075.3
+^GSPC Percent Change was: -0.1827713915
+Daily Account closing value was: 15251.0
+the Daily Account Percent Change was: -0.3137459965
+The differential was: 0.13097460500000002
+6/24/2016:
+^GSPC closing value was: 2037.4
+^GSPC Percent Change was: -3.5915392990000004
+Daily Account closing value was: 14969.0
+the Daily Account Percent Change was: -5.145428046
+The differential was: 1.5538887469999998
+6/27/2016:
+^GSPC closing value was: 2000.5
+^GSPC Percent Change was: -1.8111318349999999
+Daily Account closing value was: 14433.0
+the Daily Account Percent Change was: -3.580733516
+The differential was: 1.7696016810000001
+6/28/2016:
+^GSPC closing value was: 2036.1
+^GSPC Percent Change was: 1.7795551109999999
+Daily Account closing value was: 14700.0
+the Daily Account Percent Change was: 1.8499272500000001
+The differential was: -0.07037213900000028
+9/8/2016:
+^GSPC closing value was: 2181.3
+^GSPC Percent Change was: -0.2241331992
+Daily Account closing value was: 17032.0
+the Daily Account Percent Change was: -0.7459207459
+The differential was: 0.5217875467
+9/9/2016:
+^GSPC closing value was: 2127.8
+^GSPC Percent Change was: -2.452665841
+Daily Account closing value was: 16522.0
+the Daily Account Percent Change was: -2.994363551
+The differential was: 0.5416977100000002
+9/12/2016:
+^GSPC closing value was: 2159.0
+^GSPC Percent Change was: 1.466303224
+Daily Account closing value was: 16765.0
+the Daily Account Percent Change was: 1.4707662510000001
+The differential was: -0.004463027000000119
+10/13/2016:
+^GSPC closing value was: 2132.6
+^GSPC Percent Change was: -0.308526552
+Daily Account closing value was: 16082.0
+the Daily Account Percent Change was: -1.058201058
+The differential was: 0.7496745060000001
+10/14/2016:
+^GSPC closing value was: 2133.0
+^GSPC Percent Change was: 0.01875644753
+Daily Account closing value was: 15998.0
+the Daily Account Percent Change was: -0.5223230941
+The differential was: 0.54107954163
+10/17/2016:
+^GSPC closing value was: 2126.5
+^GSPC Percent Change was: -0.3047351149
+Daily Account closing value was: 16036.0
+the Daily Account Percent Change was: 0.2375296912
+The differential was: -0.5422648060999999
+11/1/2016:
+^GSPC closing value was: 2111.7
+^GSPC Percent Change was: -0.6772964583
+Daily Account closing value was: 15784.0
+the Daily Account Percent Change was: -1.201802704
+The differential was: 0.5245062457000002
+11/2/2016:
+^GSPC closing value was: 2097.9
+^GSPC Percent Change was: -0.6535019179
+Daily Account closing value was: 15530.0
+the Daily Account Percent Change was: -1.609224531
+The differential was: 0.9557226131
+11/3/2016:
+^GSPC closing value was: 2088.7
+^GSPC Percent Change was: -0.4385337719
+Daily Account closing value was: 15429.0
+the Daily Account Percent Change was: -0.6503541533
+The differential was: 0.21182038140000004
+1/5/2017:
+^GSPC closing value was: 2269.0
+^GSPC Percent Change was: -0.07926721860000001
+Daily Account closing value was: 18451.0
+the Daily Account Percent Change was: -1.268193493
+The differential was: 1.1889262744
+1/6/2017:
+^GSPC closing value was: 2277.0
+^GSPC Percent Change was: 0.3525782283
+Daily Account closing value was: 18380.0
+the Daily Account Percent Change was: -0.3848029917
+The differential was: 0.7373812200000001
+1/9/2017:
+^GSPC closing value was: 2268.9
+^GSPC Percent Change was: -0.3557312253
+Daily Account closing value was: 18275.0
+the Daily Account Percent Change was: -0.571273123
+The differential was: 0.21554189769999998
+2/22/2017:
+^GSPC closing value was: 2362.8
+^GSPC Percent Change was: -0.1099179843
+Daily Account closing value was: 18502.0
+the Daily Account Percent Change was: -1.000588582
+The differential was: 0.8906705977
+2/23/2017:
+^GSPC closing value was: 2363.8
+^GSPC Percent Change was: 0.04232266802
+Daily Account closing value was: 18351.0
+the Daily Account Percent Change was: -0.8161279861999999
+The differential was: 0.8584506542199999
+2/24/2017:
+^GSPC closing value was: 2367.3
+^GSPC Percent Change was: 0.1480666723
+Daily Account closing value was: 18372.0
+the Daily Account Percent Change was: 0.1144351806
+The differential was: 0.0336314917
+2/28/2017:
+^GSPC closing value was: 2363.6
+^GSPC Percent Change was: -0.2616254536
+Daily Account closing value was: 18442.0
+the Daily Account Percent Change was: -1.448191097
+The differential was: 1.1865656434
+3/1/2017:
+^GSPC closing value was: 2396.0
+^GSPC Percent Change was: 1.37079032
+Daily Account closing value was: 18467.0
+the Daily Account Percent Change was: 0.1355601345
+The differential was: 1.2352301855
+3/2/2017:
+^GSPC closing value was: 2381.9
+^GSPC Percent Change was: -0.5884808012999999
+Daily Account closing value was: 18504.0
+the Daily Account Percent Change was: 0.2003573943
+The differential was: -0.7888381955999999
+5/11/2017:
+^GSPC closing value was: 2394.4
+^GSPC Percent Change was: -0.2167027838
+Daily Account closing value was: 19629.0
+the Daily Account Percent Change was: -1.277473218
+The differential was: 1.0607704342
+5/12/2017:
+^GSPC closing value was: 2390.9
+^GSPC Percent Change was: -0.1461744069
+Daily Account closing value was: 19481.0
+the Daily Account Percent Change was: -0.7539864486
+The differential was: 0.6078120416999999
+5/15/2017:
+^GSPC closing value was: 2402.3
+^GSPC Percent Change was: 0.4768078966
+Daily Account closing value was: 19491.0
+the Daily Account Percent Change was: 0.05133206714
+The differential was: 0.42547582946
+5/16/2017:
+^GSPC closing value was: 2400.7
+^GSPC Percent Change was: -0.06660283895
+Daily Account closing value was: 19301.0
+the Daily Account Percent Change was: -0.9748088862
+The differential was: 0.90820604725
+5/17/2017:
+^GSPC closing value was: 2357.0
+^GSPC Percent Change was: -1.8203024120000002
+Daily Account closing value was: 18735.0
+the Daily Account Percent Change was: -2.9324905450000003
+The differential was: 1.112188133
+5/18/2017:
+^GSPC closing value was: 2365.7
+^GSPC Percent Change was: 0.3691132796
+Daily Account closing value was: 18734.0
+the Daily Account Percent Change was: -0.005337603416
+The differential was: 0.374450883016
+5/22/2017:
+^GSPC closing value was: 2394.0
+^GSPC Percent Change was: 0.5164378384999999
+Daily Account closing value was: 18855.0
+the Daily Account Percent Change was: 0.01060839124
+The differential was: 0.5058294472599999
+5/23/2017:
+^GSPC closing value was: 2398.4
+^GSPC Percent Change was: 0.1837928154
+Daily Account closing value was: 18771.0
+the Daily Account Percent Change was: -0.445505171
+The differential was: 0.6292979864
+5/24/2017:
+^GSPC closing value was: 2404.4
+^GSPC Percent Change was: 0.25016677789999997
+Daily Account closing value was: 18818.0
+the Daily Account Percent Change was: 0.2503862341
+The differential was: -0.0002194562000000233
+6/13/2017:
+^GSPC closing value was: 2440.4
+^GSPC Percent Change was: 0.4527866963
+Daily Account closing value was: 19288.0
+the Daily Account Percent Change was: -0.4233350542
+The differential was: 0.8761217505000001
+6/14/2017:
+^GSPC closing value was: 2437.9
+^GSPC Percent Change was: -0.10244222260000001
+Daily Account closing value was: 19126.0
+the Daily Account Percent Change was: -0.8399004562
+The differential was: 0.7374582336
+6/15/2017:
+^GSPC closing value was: 2432.5
+^GSPC Percent Change was: -0.22150211250000001
+Daily Account closing value was: 19019.0
+the Daily Account Percent Change was: -0.559447872
+The differential was: 0.3379457595
+8/2/2017:
+^GSPC closing value was: 2477.6
+^GSPC Percent Change was: 0.048457438219999996
+Daily Account closing value was: 18793.0
+the Daily Account Percent Change was: -1.2713422639999998
+The differential was: 1.3197997022199999
+8/3/2017:
+^GSPC closing value was: 2472.2
+^GSPC Percent Change was: -0.2179528576
+Daily Account closing value was: 18455.0
+the Daily Account Percent Change was: -1.79854201
+The differential was: 1.5805891524
+8/4/2017:
+^GSPC closing value was: 2476.8
+^GSPC Percent Change was: 0.18606908830000002
+Daily Account closing value was: 18585.0
+the Daily Account Percent Change was: 0.7044161474
+The differential was: -0.5183470591
+8/14/2017:
+^GSPC closing value was: 2465.8
+^GSPC Percent Change was: 1.003563675
+Daily Account closing value was: 18293.0
+the Daily Account Percent Change was: 0.45579352
+The differential was: 0.547770155
+8/15/2017:
+^GSPC closing value was: 2464.6
+^GSPC Percent Change was: -0.04866574742
+Daily Account closing value was: 18149.0
+the Daily Account Percent Change was: -0.7871863554
+The differential was: 0.7385206079800001
+8/16/2017:
+^GSPC closing value was: 2468.1
+^GSPC Percent Change was: 0.142010874
+Daily Account closing value was: 18214.0
+the Daily Account Percent Change was: 0.3581464544
+The differential was: -0.21613558039999997
+9/7/2017:
+^GSPC closing value was: 2465.1
+^GSPC Percent Change was: -0.01622388968
+Daily Account closing value was: 18382.0
+the Daily Account Percent Change was: -0.6432084752
+The differential was: 0.62698458552
+9/8/2017:
+^GSPC closing value was: 2461.4
+^GSPC Percent Change was: -0.1500953308
+Daily Account closing value was: 17978.0
+the Daily Account Percent Change was: -2.197802198
+The differential was: 2.0477068672
+9/11/2017:
+^GSPC closing value was: 2488.1
+^GSPC Percent Change was: 1.084748517
+Daily Account closing value was: 18071.0
+the Daily Account Percent Change was: 0.5172989209
+The differential was: 0.5674495961
+9/12/2017:
+^GSPC closing value was: 2496.5
+^GSPC Percent Change was: 0.3376070094
+Daily Account closing value was: 18315.0
+the Daily Account Percent Change was: 1.35022965
+The differential was: -1.0126226406
+10/5/2017:
+^GSPC closing value was: 2552.1
+^GSPC Percent Change was: 0.5674429602
+Daily Account closing value was: 19096.0
+the Daily Account Percent Change was: -0.2715688323
+The differential was: 0.8390117925
+10/6/2017:
+^GSPC closing value was: 2549.3
+^GSPC Percent Change was: -0.1097135692
+Daily Account closing value was: 18944.0
+the Daily Account Percent Change was: -0.7959782153
+The differential was: 0.6862646461
+10/9/2017:
+^GSPC closing value was: 2544.7
+^GSPC Percent Change was: -0.1804416899
+Daily Account closing value was: 18617.0
+the Daily Account Percent Change was: -1.7261402030000002
+The differential was: 1.5456985131
+10/10/2017:
+^GSPC closing value was: 2550.6
+^GSPC Percent Change was: 0.23185444260000002
+Daily Account closing value was: 18617.0
+the Daily Account Percent Change was: 0
+The differential was: 0.23185444260000002
+10/11/2017:
+^GSPC closing value was: 2555.2
+^GSPC Percent Change was: 0.1803497216
+Daily Account closing value was: 18463.0
+the Daily Account Percent Change was: -0.8272009453999999
+The differential was: 1.0075506669999998
+10/12/2017:
+^GSPC closing value was: 2550.9
+^GSPC Percent Change was: -0.168284283
+Daily Account closing value was: 18335.0
+the Daily Account Percent Change was: -0.6932784488
+The differential was: 0.5249941658
+10/13/2017:
+^GSPC closing value was: 2553.2
+^GSPC Percent Change was: 0.09016425574999999
+Daily Account closing value was: 18310.0
+the Daily Account Percent Change was: -0.1363512408
+The differential was: 0.22651549654999997
+10/27/2017:
+^GSPC closing value was: 2581.1
+^GSPC Percent Change was: 0.808467427
+Daily Account closing value was: 18236.0
+the Daily Account Percent Change was: -0.7132356945
+The differential was: 1.5217031214999999
+10/30/2017:
+^GSPC closing value was: 2572.8
+^GSPC Percent Change was: -0.3215683236
+Daily Account closing value was: 18044.0
+the Daily Account Percent Change was: -1.05286247
+The differential was: 0.7312941464
+10/31/2017:
+^GSPC closing value was: 2575.3
+^GSPC Percent Change was: 0.09717039801
+Daily Account closing value was: 18223.0
+the Daily Account Percent Change was: 0.9920195079
+The differential was: -0.89484910989
+12/11/2017:
+^GSPC closing value was: 2660.0
+^GSPC Percent Change was: 0.3205732604
+Daily Account closing value was: 20228.0
+the Daily Account Percent Change was: -0.8139648916
+The differential was: 1.134538152
+12/12/2017:
+^GSPC closing value was: 2664.1
+^GSPC Percent Change was: 0.1541353383
+Daily Account closing value was: 20055.0
+the Daily Account Percent Change was: -0.8552501483
+The differential was: 1.0093854866
+12/13/2017:
+^GSPC closing value was: 2662.9
+^GSPC Percent Change was: -0.04504335423
+Daily Account closing value was: 20206.0
+the Daily Account Percent Change was: 0.752929444
+The differential was: -0.79797279823
+2/15/2018:
+^GSPC closing value was: 2731.2
+^GSPC Percent Change was: 1.208033795
+Daily Account closing value was: 20120.0
+the Daily Account Percent Change was: 0.6603962377
+The differential was: 0.5476375573
+2/16/2018:
+^GSPC closing value was: 2732.2
+^GSPC Percent Change was: 0.036613942590000004
+Daily Account closing value was: 20023.0
+the Daily Account Percent Change was: -0.48210735590000003
+The differential was: 0.51872129849
+2/20/2018:
+^GSPC closing value was: 2716.3
+^GSPC Percent Change was: -0.5819486128
+Daily Account closing value was: 20029.0
+the Daily Account Percent Change was: 0.02996553963
+The differential was: -0.61191415243
+2/23/2018:
+^GSPC closing value was: 2747.3
+^GSPC Percent Change was: 1.601331361
+Daily Account closing value was: 20099.0
+the Daily Account Percent Change was: 0
+The differential was: 1.601331361
+2/26/2018:
+^GSPC closing value was: 2779.6
+^GSPC Percent Change was: 1.175699778
+Daily Account closing value was: 20219.0
+the Daily Account Percent Change was: 0.5970446291
+The differential was: 0.5786551489
+2/27/2018:
+^GSPC closing value was: 2744.3
+^GSPC Percent Change was: -1.269966902
+Daily Account closing value was: 19836.0
+the Daily Account Percent Change was: -1.894257876
+The differential was: 0.624290974
+2/28/2018:
+^GSPC closing value was: 2713.8
+^GSPC Percent Change was: -1.111394527
+Daily Account closing value was: 19568.0
+the Daily Account Percent Change was: -1.351078847
+The differential was: 0.23968431999999984
+5/9/2018:
+^GSPC closing value was: 2697.8
+^GSPC Percent Change was: 0.9693476552000001
+Daily Account closing value was: 19097.0
+the Daily Account Percent Change was: 0.3204454717
+The differential was: 0.6489021835000002
+5/10/2018:
+^GSPC closing value was: 2723.1
+^GSPC Percent Change was: 0.9378011713
+Daily Account closing value was: 19159.0
+the Daily Account Percent Change was: 0.3246583233
+The differential was: 0.613142848
+5/11/2018:
+^GSPC closing value was: 2727.7
+^GSPC Percent Change was: 0.16892512210000002
+Daily Account closing value was: 19210.0
+the Daily Account Percent Change was: 0.2661934339
+The differential was: -0.09726831179999998
+5/31/2018:
+^GSPC closing value was: 2705.3
+^GSPC Percent Change was: -0.6864904552000001
+Daily Account closing value was: 19535.0
+the Daily Account Percent Change was: -1.318448171
+The differential was: 0.6319577157999999
+6/1/2018:
+^GSPC closing value was: 2734.6
+^GSPC Percent Change was: 1.08305918
+Daily Account closing value was: 19624.0
+the Daily Account Percent Change was: 0.4555925262
+The differential was: 0.6274666538
+6/4/2018:
+^GSPC closing value was: 2746.9
+^GSPC Percent Change was: 0.44979156000000003
+Daily Account closing value was: 19910.0
+the Daily Account Percent Change was: 1.457399103
+The differential was: -1.007607543
+6/28/2018:
+^GSPC closing value was: 2716.3
+^GSPC Percent Change was: 0.6186101645
+Daily Account closing value was: 20269.0
+the Daily Account Percent Change was: -0.2460751021
+The differential was: 0.8646852666
+6/29/2018:
+^GSPC closing value was: 2718.4
+^GSPC Percent Change was: 0.07731104812
+Daily Account closing value was: 20161.0
+the Daily Account Percent Change was: -0.5328333908999999
+The differential was: 0.6101444390199999
+7/2/2018:
+^GSPC closing value was: 2726.7
+^GSPC Percent Change was: 0.3053266627
+Daily Account closing value was: 20231.0
+the Daily Account Percent Change was: 0.34720499979999997
+The differential was: -0.041878337099999996
+7/10/2018:
+^GSPC closing value was: 2793.8
+^GSPC Percent Change was: 0.3448028159
+Daily Account closing value was: 20710.0
+the Daily Account Percent Change was: -0.2840772305
+The differential was: 0.6288800464
+7/11/2018:
+^GSPC closing value was: 2774.0
+^GSPC Percent Change was: -0.7087121483000001
+Daily Account closing value was: 20390.0
+the Daily Account Percent Change was: -1.545147272
+The differential was: 0.8364351236999998
+7/12/2018:
+^GSPC closing value was: 2798.3
+^GSPC Percent Change was: 0.8759913482
+Daily Account closing value was: 20391.0
+the Daily Account Percent Change was: 0.004904364885
+The differential was: 0.871086983315
+7/13/2018:
+^GSPC closing value was: 2801.3
+^GSPC Percent Change was: 0.10720794769999999
+Daily Account closing value was: 20305.0
+the Daily Account Percent Change was: -0.4217546957
+The differential was: 0.5289626434
+7/16/2018:
+^GSPC closing value was: 2798.4
+^GSPC Percent Change was: -0.1035233642
+Daily Account closing value was: 20052.0
+the Daily Account Percent Change was: -1.245998523
+The differential was: 1.1424751588
+7/17/2018:
+^GSPC closing value was: 2809.6
+^GSPC Percent Change was: 0.40022870209999994
+Daily Account closing value was: 20113.0
+the Daily Account Percent Change was: 0.30420905649999996
+The differential was: 0.09601964559999998
+7/24/2018:
+^GSPC closing value was: 2820.4
+^GSPC Percent Change was: 0.4773779836
+Daily Account closing value was: 19983.0
+the Daily Account Percent Change was: -1.216075931
+The differential was: 1.6934539146
+7/25/2018:
+^GSPC closing value was: 2846.1
+^GSPC Percent Change was: 0.9112182669
+Daily Account closing value was: 20021.0
+the Daily Account Percent Change was: 0.1901616374
+The differential was: 0.7210566294999999
+7/26/2018:
+^GSPC closing value was: 2837.4
+^GSPC Percent Change was: -0.30568145879999997
+Daily Account closing value was: 20236.0
+the Daily Account Percent Change was: 1.073872434
+The differential was: -1.3795538928000002
+9/24/2018:
+^GSPC closing value was: 2919.4
+^GSPC Percent Change was: -0.3515718333
+Daily Account closing value was: 20479.0
+the Daily Account Percent Change was: -1.467474981
+The differential was: 1.1159031477
+9/25/2018:
+^GSPC closing value was: 2915.6
+^GSPC Percent Change was: -0.1301637323
+Daily Account closing value was: 20348.0
+the Daily Account Percent Change was: -0.6396796719
+The differential was: 0.5095159396
+9/26/2018:
+^GSPC closing value was: 2906.0
+^GSPC Percent Change was: -0.3292632734
+Daily Account closing value was: 20255.0
+the Daily Account Percent Change was: -0.45704737570000004
+The differential was: 0.12778410230000004
+10/17/2018:
+^GSPC closing value was: 2809.2
+^GSPC Percent Change was: -0.024911918569999997
+Daily Account closing value was: 19046.0
+the Daily Account Percent Change was: -1.116245262
+The differential was: 1.09133334343
+10/18/2018:
+^GSPC closing value was: 2768.8
+^GSPC Percent Change was: -1.438131852
+Daily Account closing value was: 18570.0
+the Daily Account Percent Change was: -2.499212433
+The differential was: 1.061080581
+10/19/2018:
+^GSPC closing value was: 2767.8
+^GSPC Percent Change was: -0.03611672927
+Daily Account closing value was: 18460.0
+the Daily Account Percent Change was: -0.5923532579
+The differential was: 0.5562365286300001
+10/22/2018:
+^GSPC closing value was: 2755.9
+^GSPC Percent Change was: -0.4299443601
+Daily Account closing value was: 18438.0
+the Daily Account Percent Change was: -0.119176598
+The differential was: -0.3107677621
+11/7/2018:
+^GSPC closing value was: 2813.9
+^GSPC Percent Change was: 2.123103724
+Daily Account closing value was: 18913.0
+the Daily Account Percent Change was: 0.4514552794
+The differential was: 1.6716484446
+11/8/2018:
+^GSPC closing value was: 2806.8
+^GSPC Percent Change was: -0.2523188457
+Daily Account closing value was: 18765.0
+the Daily Account Percent Change was: -0.7825305346000001
+The differential was: 0.5302116889000001
+11/9/2018:
+^GSPC closing value was: 2781.0
+^GSPC Percent Change was: -0.9191962377
+Daily Account closing value was: 18481.0
+the Daily Account Percent Change was: -1.513455902
+The differential was: 0.5942596643
+11/12/2018:
+^GSPC closing value was: 2726.2
+^GSPC Percent Change was: -1.970514204
+Daily Account closing value was: 18377.0
+the Daily Account Percent Change was: -0.5627401114999999
+The differential was: -1.4077740925000002
+12/4/2018:
+^GSPC closing value was: 2700.1
+^GSPC Percent Change was: -3.2360951829999998
+Daily Account closing value was: 17943.0
+the Daily Account Percent Change was: -4.952855175
+The differential was: 1.716759992
+12/6/2018:
+^GSPC closing value was: 2695.9
+^GSPC Percent Change was: -0.1555497945
+Daily Account closing value was: 17638.0
+the Daily Account Percent Change was: -1.699827231
+The differential was: 1.5442774365
+12/7/2018:
+^GSPC closing value was: 2633.1
+^GSPC Percent Change was: -2.3294632589999997
+Daily Account closing value was: 17224.0
+the Daily Account Percent Change was: -2.3472048990000003
+The differential was: 0.017741640000000558
+1/22/2019:
+^GSPC closing value was: 2632.9
+^GSPC Percent Change was: -1.4153592689999999
+Daily Account closing value was: 18076.0
+the Daily Account Percent Change was: -2.164970773
+The differential was: 0.749611504
+1/23/2019:
+^GSPC closing value was: 2638.7
+^GSPC Percent Change was: 0.2202894147
+Daily Account closing value was: 17786.0
+the Daily Account Percent Change was: -1.604337243
+The differential was: 1.8246266577
+1/24/2019:
+^GSPC closing value was: 2642.3
+^GSPC Percent Change was: 0.1364308182
+Daily Account closing value was: 17902.0
+the Daily Account Percent Change was: 0.6521983583000001
+The differential was: -0.5157675401
+2/26/2019:
+^GSPC closing value was: 2793.9
+^GSPC Percent Change was: -0.07868101998999999
+Daily Account closing value was: 20048.0
+the Daily Account Percent Change was: -1.158605729
+The differential was: 1.0799247090100002
+2/27/2019:
+^GSPC closing value was: 2792.4
+^GSPC Percent Change was: -0.05368839257
+Daily Account closing value was: 19904.0
+the Daily Account Percent Change was: -0.7182761373
+The differential was: 0.6645877447299999
+2/28/2019:
+^GSPC closing value was: 2784.5
+^GSPC Percent Change was: -0.28291075779999997
+Daily Account closing value was: 19616.0
+the Daily Account Percent Change was: -1.4469453380000001
+The differential was: 1.1640345802
+3/1/2019:
+^GSPC closing value was: 2803.7
+^GSPC Percent Change was: 0.6895313342
+Daily Account closing value was: 19736.0
+the Daily Account Percent Change was: 0.6117455139
+The differential was: 0.07778582030000003
+3/5/2019:
+^GSPC closing value was: 2789.6
+^GSPC Percent Change was: -0.11458034949999998
+Daily Account closing value was: 19438.0
+the Daily Account Percent Change was: -0.6947992235
+The differential was: 0.580218874
+3/6/2019:
+^GSPC closing value was: 2771.4
+^GSPC Percent Change was: -0.6524232865
+Daily Account closing value was: 19047.0
+the Daily Account Percent Change was: -2.0115238189999998
+The differential was: 1.3591005324999998
+3/7/2019:
+^GSPC closing value was: 2748.9
+^GSPC Percent Change was: -0.8118640397999999
+Daily Account closing value was: 19009.0
+the Daily Account Percent Change was: -0.199506484
+The differential was: -0.6123575557999998
+4/30/2019:
+^GSPC closing value was: 2945.8
+^GSPC Percent Change was: 0.09514101257
+Daily Account closing value was: 20084.0
+the Daily Account Percent Change was: -0.5841005841
+The differential was: 0.67924159667
+5/1/2019:
+^GSPC closing value was: 2923.7
+^GSPC Percent Change was: -0.7502206531
+Daily Account closing value was: 19827.0
+the Daily Account Percent Change was: -1.2796255730000001
+The differential was: 0.5294049199000002
+5/2/2019:
+^GSPC closing value was: 2917.5
+^GSPC Percent Change was: -0.2120600609
+Daily Account closing value was: 19665.0
+the Daily Account Percent Change was: -0.8170676349999999
+The differential was: 0.6050075740999998
+5/3/2019:
+^GSPC closing value was: 2945.6
+^GSPC Percent Change was: 0.9631533847000001
+Daily Account closing value was: 19935.0
+the Daily Account Percent Change was: 1.372997712
+The differential was: -0.4098443273
+5/22/2019:
+^GSPC closing value was: 2856.3
+^GSPC Percent Change was: -0.28278173440000004
+Daily Account closing value was: 18559.0
+the Daily Account Percent Change was: -1.7470485470000001
+The differential was: 1.4642668126
+5/23/2019:
+^GSPC closing value was: 2822.2
+^GSPC Percent Change was: -1.193852186
+Daily Account closing value was: 18120.0
+the Daily Account Percent Change was: -2.3654291720000002
+The differential was: 1.1715769860000003
+5/24/2019:
+^GSPC closing value was: 2826.1
+^GSPC Percent Change was: 0.1381900645
+Daily Account closing value was: 18199.0
+the Daily Account Percent Change was: 0.43598233999999997
+The differential was: -0.2977922755
+5/30/2019:
+^GSPC closing value was: 2788.9
+^GSPC Percent Change was: 0.2120014373
+Daily Account closing value was: 17765.0
+the Daily Account Percent Change was: -1.047178744
+The differential was: 1.2591801813
+5/31/2019:
+^GSPC closing value was: 2752.1
+^GSPC Percent Change was: -1.319516655
+Daily Account closing value was: 17244.0
+the Daily Account Percent Change was: -2.932732902
+The differential was: 1.6132162470000002
+6/3/2019:
+^GSPC closing value was: 2744.4
+^GSPC Percent Change was: -0.279786345
+Daily Account closing value was: 17695.0
+the Daily Account Percent Change was: 2.6154024590000002
+The differential was: -2.895188804
+6/5/2019:
+^GSPC closing value was: 2826.1
+^GSPC Percent Change was: 0.8133271500999999
+Daily Account closing value was: 18398.0
+the Daily Account Percent Change was: 0.1578746802
+The differential was: 0.6554524699
+6/6/2019:
+^GSPC closing value was: 2843.5
+^GSPC Percent Change was: 0.6156894660000001
+Daily Account closing value was: 18300.0
+the Daily Account Percent Change was: -0.5326665942
+The differential was: 1.1483560602
+6/7/2019:
+^GSPC closing value was: 2873.3
+^GSPC Percent Change was: 1.04800422
+Daily Account closing value was: 18457.0
+the Daily Account Percent Change was: 0.8579234973
+The differential was: 0.19008072269999998
+7/1/2019:
+^GSPC closing value was: 2964.3
+^GSPC Percent Change was: 0.7648378544000001
+Daily Account closing value was: 19984.0
+the Daily Account Percent Change was: -0.0400160064
+The differential was: 0.8048538608000001
+7/2/2019:
+^GSPC closing value was: 2973.0
+^GSPC Percent Change was: 0.29349256149999997
+Daily Account closing value was: 19686.0
+the Daily Account Percent Change was: -1.491192954
+The differential was: 1.7846855154999999
+7/3/2019:
+^GSPC closing value was: 2995.8
+^GSPC Percent Change was: 0.7669021191000001
+Daily Account closing value was: 19797.0
+the Daily Account Percent Change was: 0.563852484
+The differential was: 0.20304963510000007
+7/8/2019:
+^GSPC closing value was: 2975.9
+^GSPC Percent Change was: -0.48488496519999996
+Daily Account closing value was: 19434.0
+the Daily Account Percent Change was: -1.9079345849999998
+The differential was: 1.4230496197999998
+7/9/2019:
+^GSPC closing value was: 2979.6
+^GSPC Percent Change was: 0.12433213480000001
+Daily Account closing value was: 19281.0
+the Daily Account Percent Change was: -0.7872800246999999
+The differential was: 0.9116121595
+7/10/2019:
+^GSPC closing value was: 2993.1
+^GSPC Percent Change was: 0.4530809505
+Daily Account closing value was: 19236.0
+the Daily Account Percent Change was: -0.2333903843
+The differential was: 0.6864713348
+7/11/2019:
+^GSPC closing value was: 2999.9
+^GSPC Percent Change was: 0.22718920180000002
+Daily Account closing value was: 19118.0
+the Daily Account Percent Change was: -0.6134331462
+The differential was: 0.840622348
+7/12/2019:
+^GSPC closing value was: 3013.8
+^GSPC Percent Change was: 0.46334877830000004
+Daily Account closing value was: 19575.0
+the Daily Account Percent Change was: 2.390417408
+The differential was: -1.9270686296999997
+7/25/2019:
+^GSPC closing value was: 3003.7
+^GSPC Percent Change was: -0.5265598092
+Daily Account closing value was: 19793.0
+the Daily Account Percent Change was: -1.414553967
+The differential was: 0.8879941578
+7/26/2019:
+^GSPC closing value was: 3025.9
+^GSPC Percent Change was: 0.7390884576
+Daily Account closing value was: 19822.0
+the Daily Account Percent Change was: 0.1465164452
+The differential was: 0.5925720124
+7/29/2019:
+^GSPC closing value was: 3021.0
+^GSPC Percent Change was: -0.16193529199999998
+Daily Account closing value was: 19664.0
+the Daily Account Percent Change was: -0.7970941377999999
+The differential was: 0.6351588457999999
+7/30/2019:
+^GSPC closing value was: 3013.2
+^GSPC Percent Change was: -0.25819265140000003
+Daily Account closing value was: 19710.0
+the Daily Account Percent Change was: 0.23393002440000002
+The differential was: -0.4921226758
+7/31/2019:
+^GSPC closing value was: 2980.4
+^GSPC Percent Change was: -1.088543741
+Daily Account closing value was: 19283.0
+the Daily Account Percent Change was: -2.1664129880000003
+The differential was: 1.0778692470000002
+8/1/2019:
+^GSPC closing value was: 2953.6
+^GSPC Percent Change was: -0.89920816
+Daily Account closing value was: 18696.0
+the Daily Account Percent Change was: -3.044132137
+The differential was: 2.144923977
+8/2/2019:
+^GSPC closing value was: 2932.1
+^GSPC Percent Change was: -0.7279252438
+Daily Account closing value was: 18534.0
+the Daily Account Percent Change was: -0.8664955071
+The differential was: 0.1385702633
+8/6/2019:
+^GSPC closing value was: 2881.8
+^GSPC Percent Change was: 1.304179703
+Daily Account closing value was: 18014.0
+the Daily Account Percent Change was: 0.45728306939999996
+The differential was: 0.8468966336
+8/7/2019:
+^GSPC closing value was: 2884.0
+^GSPC Percent Change was: 0.07634117565
+Daily Account closing value was: 17918.0
+the Daily Account Percent Change was: -0.5329188409
+The differential was: 0.60926001655
+8/8/2019:
+^GSPC closing value was: 2938.1
+^GSPC Percent Change was: 1.8758668520000001
+Daily Account closing value was: 18381.0
+the Daily Account Percent Change was: 2.583993749
+The differential was: -0.7081268969999996
+8/9/2019:
+^GSPC closing value was: 2918.6
+^GSPC Percent Change was: -0.6636942242
+Daily Account closing value was: 17877.0
+the Daily Account Percent Change was: -2.741961808
+The differential was: 2.0782675838
+8/12/2019:
+^GSPC closing value was: 2882.7
+^GSPC Percent Change was: -1.230041801
+Daily Account closing value was: 17518.0
+the Daily Account Percent Change was: -2.008166918
+The differential was: 0.7781251170000001
+8/13/2019:
+^GSPC closing value was: 2926.3
+^GSPC Percent Change was: 1.5124709470000002
+Daily Account closing value was: 17733.0
+the Daily Account Percent Change was: 1.227309054
+The differential was: 0.28516189300000017
+8/14/2019:
+^GSPC closing value was: 2840.6
+^GSPC Percent Change was: -2.928612924
+Daily Account closing value was: 17070.0
+the Daily Account Percent Change was: -3.738792083
+The differential was: 0.810179159
+8/15/2019:
+^GSPC closing value was: 2847.6
+^GSPC Percent Change was: 0.24642681119999998
+Daily Account closing value was: 16810.0
+the Daily Account Percent Change was: -1.523140012
+The differential was: 1.7695668232
+8/16/2019:
+^GSPC closing value was: 2888.7
+^GSPC Percent Change was: 1.443320691
+Daily Account closing value was: 17225.0
+the Daily Account Percent Change was: 2.46876859
+The differential was: -1.0254478989999998
+9/17/2019:
+^GSPC closing value was: 3005.7
+^GSPC Percent Change was: 0.2568378919
+Daily Account closing value was: 19350.0
+the Daily Account Percent Change was: -1.361064383
+The differential was: 1.6179022749
+9/18/2019:
+^GSPC closing value was: 3006.7
+^GSPC Percent Change was: 0.03327012011
+Daily Account closing value was: 19191.0
+the Daily Account Percent Change was: -0.8217054264
+The differential was: 0.85497554651
+9/19/2019:
+^GSPC closing value was: 3006.8
+^GSPC Percent Change was: 0.0033259054780000004
+Daily Account closing value was: 19126.0
+the Daily Account Percent Change was: -0.3387004325
+The differential was: 0.342026337978
+10/1/2019:
+^GSPC closing value was: 2940.3
+^GSPC Percent Change was: -1.222830651
+Daily Account closing value was: 18813.0
+the Daily Account Percent Change was: -2.229497973
+The differential was: 1.006667322
+10/2/2019:
+^GSPC closing value was: 2887.6
+^GSPC Percent Change was: -1.7923341160000001
+Daily Account closing value was: 18358.0
+the Daily Account Percent Change was: -2.418540371
+The differential was: 0.626206255
+10/3/2019:
+^GSPC closing value was: 2910.6
+^GSPC Percent Change was: 0.7965092118
+Daily Account closing value was: 18463.0
+the Daily Account Percent Change was: 0.5719577296
+The differential was: 0.22455148219999999
+10/4/2019:
+^GSPC closing value was: 2952.0
+^GSPC Percent Change was: 1.422387137
+Daily Account closing value was: 18532.0
+the Daily Account Percent Change was: 0.3737204138
+The differential was: 1.0486667232000002
+10/7/2019:
+^GSPC closing value was: 2938.8
+^GSPC Percent Change was: -0.44715447150000004
+Daily Account closing value was: 18328.0
+the Daily Account Percent Change was: -1.1007986189999999
+The differential was: 0.6536441474999999
+10/8/2019:
+^GSPC closing value was: 2893.1
+^GSPC Percent Change was: -1.555056486
+Daily Account closing value was: 17979.0
+the Daily Account Percent Change was: -1.90419031
+The differential was: 0.3491338239999999
+10/29/2019:
+^GSPC closing value was: 3036.9
+^GSPC Percent Change was: -0.08225307627
+Daily Account closing value was: 19896.0
+the Daily Account Percent Change was: -0.5995203836999999
+The differential was: 0.5172673074299999
+10/30/2019:
+^GSPC closing value was: 3046.8
+^GSPC Percent Change was: 0.3259903191
+Daily Account closing value was: 19675.0
+the Daily Account Percent Change was: -1.110776035
+The differential was: 1.4367663541
+10/31/2019:
+^GSPC closing value was: 3037.6
+^GSPC Percent Change was: -0.30195615070000004
+Daily Account closing value was: 19567.0
+the Daily Account Percent Change was: -0.5489199492
+The differential was: 0.24696379849999994
+11/12/2019:
+^GSPC closing value was: 3091.8
+^GSPC Percent Change was: 0.1554907677
+Daily Account closing value was: 20303.0
+the Daily Account Percent Change was: -0.9271458547000001
+The differential was: 1.0826366224000001
+11/13/2019:
+^GSPC closing value was: 3094.0
+^GSPC Percent Change was: 0.07115596093
+Daily Account closing value was: 20152.0
+the Daily Account Percent Change was: -0.7437324533
+The differential was: 0.81488841423
+11/14/2019:
+^GSPC closing value was: 3096.6
+^GSPC Percent Change was: 0.08403361345
+Daily Account closing value was: 20168.0
+the Daily Account Percent Change was: 0.07939658595
+The differential was: 0.004637027500000002
+11/19/2019:
+^GSPC closing value was: 3120.2
+^GSPC Percent Change was: -0.05765534913999999
+Daily Account closing value was: 20026.0
+the Daily Account Percent Change was: -0.9741383572999999
+The differential was: 0.9164830081599998
+11/20/2019:
+^GSPC closing value was: 3108.5
+^GSPC Percent Change was: -0.37497596310000003
+Daily Account closing value was: 19745.0
+the Daily Account Percent Change was: -1.403175871
+The differential was: 1.0281999079
+11/21/2019:
+^GSPC closing value was: 3103.5
+^GSPC Percent Change was: -0.1608492842
+Daily Account closing value was: 19681.0
+the Daily Account Percent Change was: -0.3241326918
+The differential was: 0.16328340759999999
+1/8/2020:
+^GSPC closing value was: 3253.1
+^GSPC Percent Change was: 0.4911652045
+Daily Account closing value was: 20264.0
+the Daily Account Percent Change was: -0.3589516645
+The differential was: 0.850116869
+1/9/2020:
+^GSPC closing value was: 3274.7
+^GSPC Percent Change was: 0.6639820478999999
+Daily Account closing value was: 20210.0
+the Daily Account Percent Change was: -0.26648243190000004
+The differential was: 0.9304644797999999
+1/10/2020:
+^GSPC closing value was: 3265.4
+^GSPC Percent Change was: -0.2839954805
+Daily Account closing value was: 20168.0
+the Daily Account Percent Change was: -0.20781791189999999
+The differential was: -0.07617756860000002
+2/6/2020:
+^GSPC closing value was: 3345.8
+^GSPC Percent Change was: 0.332863526
+Daily Account closing value was: 20029.0
+the Daily Account Percent Change was: -1.01314619
+The differential was: 1.3460097160000002
+2/7/2020:
+^GSPC closing value was: 3327.7
+^GSPC Percent Change was: -0.540976747
+Daily Account closing value was: 19680.0
+the Daily Account Percent Change was: -1.7424734139999998
+The differential was: 1.2014966669999998
+2/10/2020:
+^GSPC closing value was: 3352.1
+^GSPC Percent Change was: 0.7332391742000001
+Daily Account closing value was: 19485.0
+the Daily Account Percent Change was: -0.9908536585000001
+The differential was: 1.7240928327000002
+2/11/2020:
+^GSPC closing value was: 3357.8
+^GSPC Percent Change was: 0.17004265980000002
+Daily Account closing value was: 19749.0
+the Daily Account Percent Change was: 1.354888376
+The differential was: -1.1848457162
+2/13/2020:
+^GSPC closing value was: 3373.9
+^GSPC Percent Change was: -0.1627507842
+Daily Account closing value was: 19806.0
+the Daily Account Percent Change was: -0.99970009
+The differential was: 0.8369493058
+2/14/2020:
+^GSPC closing value was: 3380.2
+^GSPC Percent Change was: 0.186727526
+Daily Account closing value was: 19611.0
+the Daily Account Percent Change was: -0.9845501363
+The differential was: 1.1712776623
+2/18/2020:
+^GSPC closing value was: 3370.3
+^GSPC Percent Change was: -0.292882078
+Daily Account closing value was: 19498.0
+the Daily Account Percent Change was: -0.5762072306
+The differential was: 0.2833251526
+2/25/2020:
+^GSPC closing value was: 3128.2
+^GSPC Percent Change was: -3.02861217
+Daily Account closing value was: 18029.0
+the Daily Account Percent Change was: -3.947789025
+The differential was: 0.9191768549999999
+2/26/2020:
+^GSPC closing value was: 3116.4
+^GSPC Percent Change was: -0.3772137331
+Daily Account closing value was: 17739.0
+the Daily Account Percent Change was: -1.6085196069999999
+The differential was: 1.2313058738999998
+2/27/2020:
+^GSPC closing value was: 2978.8
+^GSPC Percent Change was: -4.4153510460000005
+Daily Account closing value was: 17212.0
+the Daily Account Percent Change was: -2.970855178
+The differential was: -1.4444958680000006
+3/4/2020:
+^GSPC closing value was: 3130.1
+^GSPC Percent Change was: 4.218552307
+Daily Account closing value was: 17704.0
+the Daily Account Percent Change was: 2.6675945260000002
+The differential was: 1.5509577810000001
+3/5/2020:
+^GSPC closing value was: 3023.9
+^GSPC Percent Change was: -3.392862848
+Daily Account closing value was: 16930.0
+the Daily Account Percent Change was: -4.371893357
+The differential was: 0.9790305090000002
+3/6/2020:
+^GSPC closing value was: 2972.4
+^GSPC Percent Change was: -1.7030986469999998
+Daily Account closing value was: 16671.0
+the Daily Account Percent Change was: -1.529828706
+The differential was: -0.17326994099999982
+3/9/2020:
+^GSPC closing value was: 2746.6
+^GSPC Percent Change was: -7.596554972
+Daily Account closing value was: 15008.0
+the Daily Account Percent Change was: -9.975406394
+The differential was: 2.3788514220000003
+3/10/2020:
+^GSPC closing value was: 2882.2
+^GSPC Percent Change was: 4.937013034
+Daily Account closing value was: 15653.0
+the Daily Account Percent Change was: 4.297707889
+The differential was: 0.6393051449999998
+3/11/2020:
+^GSPC closing value was: 2741.4
+^GSPC Percent Change was: -4.885157172
+Daily Account closing value was: 14686.0
+the Daily Account Percent Change was: -6.177729509000001
+The differential was: 1.2925723370000002
+3/12/2020:
+^GSPC closing value was: 2480.6
+^GSPC Percent Change was: -9.51338732
+Daily Account closing value was: 13128.0
+the Daily Account Percent Change was: -10.60874302
+The differential was: 1.0953557000000007
+3/13/2020:
+^GSPC closing value was: 2711.0
+^GSPC Percent Change was: 9.288075465999999
+Daily Account closing value was: 14132.0
+the Daily Account Percent Change was: 7.647775746000001
+The differential was: 1.640299719999998
+3/16/2020:
+^GSPC closing value was: 2386.1
+^GSPC Percent Change was: -11.98450756
+Daily Account closing value was: 12916.0
+the Daily Account Percent Change was: -8.604585338
+The differential was: -3.379922222000001
+3/17/2020:
+^GSPC closing value was: 2529.2
+^GSPC Percent Change was: 5.997233980000001
+Daily Account closing value was: 13461.0
+the Daily Account Percent Change was: 4.219572623
+The differential was: 1.7776613570000004
+3/18/2020:
+^GSPC closing value was: 2398.1
+^GSPC Percent Change was: -5.18345722
+Daily Account closing value was: 12644.0
+the Daily Account Percent Change was: -6.069385633
+The differential was: 0.8859284129999994
+3/19/2020:
+^GSPC closing value was: 2409.4
+^GSPC Percent Change was: 0.4712063717
+Daily Account closing value was: 12934.0
+the Daily Account Percent Change was: 2.293577982
+The differential was: -1.8223716102999998
+3/20/2020:
+^GSPC closing value was: 2304.9
+^GSPC Percent Change was: -4.337179381
+Daily Account closing value was: 12288.0
+the Daily Account Percent Change was: -4.994587908
+The differential was: 0.6574085269999994
+3/23/2020:
+^GSPC closing value was: 2237.4
+^GSPC Percent Change was: -2.928543538
+Daily Account closing value was: 11866.0
+the Daily Account Percent Change was: -3.434244792
+The differential was: 0.5057012539999999
+3/24/2020:
+^GSPC closing value was: 2447.3
+^GSPC Percent Change was: 9.381424868
+Daily Account closing value was: 12790.0
+the Daily Account Percent Change was: 7.786954323000001
+The differential was: 1.5944705449999992
+3/25/2020:
+^GSPC closing value was: 2475.6
+^GSPC Percent Change was: 1.156376415
+Daily Account closing value was: 13242.0
+the Daily Account Percent Change was: 3.534010946
+The differential was: -2.377634531
+3/26/2020:
+^GSPC closing value was: 2630.1
+^GSPC Percent Change was: 6.240911294
+Daily Account closing value was: 13966.0
+the Daily Account Percent Change was: 5.467452047
+The differential was: 0.7734592469999999
+3/27/2020:
+^GSPC closing value was: 2541.5
+^GSPC Percent Change was: -3.368693206
+Daily Account closing value was: 13107.0
+the Daily Account Percent Change was: -6.150651582
+The differential was: 2.781958376
+3/30/2020:
+^GSPC closing value was: 2626.6
+^GSPC Percent Change was: 3.3484162900000003
+Daily Account closing value was: 13009.0
+the Daily Account Percent Change was: -0.7476920729
+The differential was: 4.0961083629
+3/31/2020:
+^GSPC closing value was: 2584.6
+^GSPC Percent Change was: -1.599025356
+Daily Account closing value was: 12970.0
+the Daily Account Percent Change was: -0.2997924514
+The differential was: -1.2992329046000002
+4/1/2020:
+^GSPC closing value was: 2470.5
+^GSPC Percent Change was: -4.4146096109999995
+Daily Account closing value was: 12084.0
+the Daily Account Percent Change was: -6.831148805
+The differential was: 2.4165391940000003
+4/2/2020:
+^GSPC closing value was: 2526.9
+^GSPC Percent Change was: 2.282938676
+Daily Account closing value was: 12061.0
+the Daily Account Percent Change was: -0.1903343264
+The differential was: 2.4732730024
+4/3/2020:
+^GSPC closing value was: 2488.6
+^GSPC Percent Change was: -1.515691163
+Daily Account closing value was: 11757.0
+the Daily Account Percent Change was: -2.520520687
+The differential was: 1.0048295239999998
+4/6/2020:
+^GSPC closing value was: 2663.7
+^GSPC Percent Change was: 7.0360845460000006
+Daily Account closing value was: 12793.0
+the Daily Account Percent Change was: 8.81177171
+The differential was: -1.7756871639999998
+4/13/2020:
+^GSPC closing value was: 2761.6
+^GSPC Percent Change was: -1.010825149
+Daily Account closing value was: 13902.0
+the Daily Account Percent Change was: -4.5782140159999996
+The differential was: 3.5673888669999996
+4/14/2020:
+^GSPC closing value was: 2846.1
+^GSPC Percent Change was: 3.059820394
+Daily Account closing value was: 14114.0
+the Daily Account Percent Change was: 1.5249604369999998
+The differential was: 1.534859957
+4/15/2020:
+^GSPC closing value was: 2783.4
+^GSPC Percent Change was: -2.203014652
+Daily Account closing value was: 13594.0
+the Daily Account Percent Change was: -3.684285107
+The differential was: 1.4812704550000002
+4/16/2020:
+^GSPC closing value was: 2799.6
+^GSPC Percent Change was: 0.5820219875
+Daily Account closing value was: 13429.0
+the Daily Account Percent Change was: -1.213770781
+The differential was: 1.7957927685000001
+4/17/2020:
+^GSPC closing value was: 2874.6
+^GSPC Percent Change was: 2.6789541359999998
+Daily Account closing value was: 14102.0
+the Daily Account Percent Change was: 5.011542185
+The differential was: -2.332588049
+5/4/2020:
+^GSPC closing value was: 2842.7
+^GSPC Percent Change was: 0.4239234112
+Daily Account closing value was: 14731.0
+the Daily Account Percent Change was: -1.313056877
+The differential was: 1.7369802881999998
+5/5/2020:
+^GSPC closing value was: 2868.4
+^GSPC Percent Change was: 0.9040700742
+Daily Account closing value was: 14370.0
+the Daily Account Percent Change was: -2.450614351
+The differential was: 3.3546844252
+5/6/2020:
+^GSPC closing value was: 2848.4
+^GSPC Percent Change was: -0.6972528239
+Daily Account closing value was: 13822.0
+the Daily Account Percent Change was: -3.813500348
+The differential was: 3.1162475241
+5/7/2020:
+^GSPC closing value was: 2881.2
+^GSPC Percent Change was: 1.151523662
+Daily Account closing value was: 14295.0
+the Daily Account Percent Change was: 3.422080741
+The differential was: -2.2705570789999996
+5/11/2020:
+^GSPC closing value was: 2930.2
+^GSPC Percent Change was: 0.013652809069999999
+Daily Account closing value was: 14773.0
+the Daily Account Percent Change was: -2.751629254
+The differential was: 2.76528206307
+5/12/2020:
+^GSPC closing value was: 2870.1
+^GSPC Percent Change was: -2.051054536
+Daily Account closing value was: 14204.0
+the Daily Account Percent Change was: -3.8516212010000004
+The differential was: 1.8005666650000003
+5/13/2020:
+^GSPC closing value was: 2820.0
+^GSPC Percent Change was: -1.745583778
+Daily Account closing value was: 13637.0
+the Daily Account Percent Change was: -3.9918332860000003
+The differential was: 2.246249508
+5/14/2020:
+^GSPC closing value was: 2852.5
+^GSPC Percent Change was: 1.15248227
+Daily Account closing value was: 13772.0
+the Daily Account Percent Change was: 0.9899538022000001
+The differential was: 0.16252846779999985
+5/28/2020:
+^GSPC closing value was: 3029.7
+^GSPC Percent Change was: -0.2107967458
+Daily Account closing value was: 17154.0
+the Daily Account Percent Change was: -3.509956126
+The differential was: 3.2991593802
+5/29/2020:
+^GSPC closing value was: 3044.3
+^GSPC Percent Change was: 0.4818958973
+Daily Account closing value was: 16788.0
+the Daily Account Percent Change was: -2.133613151
+The differential was: 2.6155090483
+6/1/2020:
+^GSPC closing value was: 3055.7
+^GSPC Percent Change was: 0.3744703216
+Daily Account closing value was: 17190.0
+the Daily Account Percent Change was: 2.394567548
+The differential was: -2.0200972264
+6/9/2020:
+^GSPC closing value was: 3207.2
+^GSPC Percent Change was: -0.7796064843
+Daily Account closing value was: 20653.0
+the Daily Account Percent Change was: -4.679928001
+The differential was: 3.9003215167000005
+6/10/2020:
+^GSPC closing value was: 3190.1
+^GSPC Percent Change was: -0.5331753555
+Daily Account closing value was: 19473.0
+the Daily Account Percent Change was: -5.713455672
+The differential was: 5.1802803165
+6/11/2020:
+^GSPC closing value was: 3002.1
+^GSPC Percent Change was: -5.893232187
+Daily Account closing value was: 17454.0
+the Daily Account Percent Change was: -10.36820213
+The differential was: 4.4749699430000005
+6/12/2020:
+^GSPC closing value was: 3041.3
+^GSPC Percent Change was: 1.30575264
+Daily Account closing value was: 18176.0
+the Daily Account Percent Change was: 4.136587602
+The differential was: -2.830834962
+6/17/2020:
+^GSPC closing value was: 3113.5
+^GSPC Percent Change was: -0.3584344097
+Daily Account closing value was: 18199.0
+the Daily Account Percent Change was: -3.140135185
+The differential was: 2.7817007753
+6/18/2020:
+^GSPC closing value was: 3115.3
+^GSPC Percent Change was: 0.057812750919999996
+Daily Account closing value was: 18077.0
+the Daily Account Percent Change was: -0.6703665037000001
+The differential was: 0.7281792546200001
+6/19/2020:
+^GSPC closing value was: 3097.7
+^GSPC Percent Change was: -0.564953616
+Daily Account closing value was: 17857.0
+the Daily Account Percent Change was: -1.217016098
+The differential was: 0.6520624819999999
+6/22/2020:
+^GSPC closing value was: 3117.9
+^GSPC Percent Change was: 0.6520967168999999
+Daily Account closing value was: 17946.0
+the Daily Account Percent Change was: 0.4984039872
+The differential was: 0.15369272969999992
+6/30/2020:
+^GSPC closing value was: 3100.3
+^GSPC Percent Change was: 1.542643784
+Daily Account closing value was: 17814.0
+the Daily Account Percent Change was: 0.29275982429999997
+The differential was: 1.2498839597
+7/1/2020:
+^GSPC closing value was: 3115.9
+^GSPC Percent Change was: 0.5031771119
+Daily Account closing value was: 17398.0
+the Daily Account Percent Change was: -2.335241945
+The differential was: 2.8384190569
+7/2/2020:
+^GSPC closing value was: 3130.0
+^GSPC Percent Change was: 0.4525177316
+Daily Account closing value was: 17512.0
+the Daily Account Percent Change was: 0.6552477296
+The differential was: -0.20272999800000002
+7/17/2020:
+^GSPC closing value was: 3224.7
+^GSPC Percent Change was: 0.2829953974
+Daily Account closing value was: 18035.0
+the Daily Account Percent Change was: -1.919730259
+The differential was: 2.2027256564
+7/20/2020:
+^GSPC closing value was: 3251.8
+^GSPC Percent Change was: 0.8403882531999999
+Daily Account closing value was: 17533.0
+the Daily Account Percent Change was: -2.7834765729999997
+The differential was: 3.6238648261999997
+7/21/2020:
+^GSPC closing value was: 3257.3
+^GSPC Percent Change was: 0.16913709329999999
+Daily Account closing value was: 18105.0
+the Daily Account Percent Change was: 3.262419438
+The differential was: -3.0932823447
+7/30/2020:
+^GSPC closing value was: 3246.2
+^GSPC Percent Change was: -0.37441689170000003
+Daily Account closing value was: 18399.0
+the Daily Account Percent Change was: -2.138184139
+The differential was: 1.7637672472999997
+7/31/2020:
+^GSPC closing value was: 3271.1
+^GSPC Percent Change was: 0.7670507054
+Daily Account closing value was: 17954.0
+the Daily Account Percent Change was: -2.418609707
+The differential was: 3.1856604124
+8/3/2020:
+^GSPC closing value was: 3294.6
+^GSPC Percent Change was: 0.7184127663
+Daily Account closing value was: 18145.0
+the Daily Account Percent Change was: 1.063829787
+The differential was: -0.3454170207
+
+7/10/2018:
+^GSPC closing value was: 2793.8
+^GSPC Percent Change was: 0.3448028159
+Daily Account closing value was: 20710.0
+the Daily Account Percent Change was: -0.2840772305
+The differential was: 0.6288800464
+7/11/2018:
+^GSPC closing value was: 2774.0
+^GSPC Percent Change was: -0.7087121483000001
+Daily Account closing value was: 20390.0
+the Daily Account Percent Change was: -1.545147272
+The differential was: 0.8364351236999998
+7/12/2018:
+^GSPC closing value was: 2798.3
+^GSPC Percent Change was: 0.8759913482
+Daily Account closing value was: 20391.0
+the Daily Account Percent Change was: 0.004904364885
+The differential was: 0.871086983315
+7/13/2018:
+^GSPC closing value was: 2801.3
+^GSPC Percent Change was: 0.10720794769999999
+Daily Account closing value was: 20305.0
+the Daily Account Percent Change was: -0.4217546957
+The differential was: 0.5289626434
+7/16/2018:
+^GSPC closing value was: 2798.4
+^GSPC Percent Change was: -0.1035233642
+Daily Account closing value was: 20052.0
+the Daily Account Percent Change was: -1.245998523
+The differential was: 1.1424751588
+7/17/2018:
+^GSPC closing value was: 2809.6
+^GSPC Percent Change was: 0.40022870209999994
+Daily Account closing value was: 20113.0
+the Daily Account Percent Change was: 0.30420905649999996
+The differential was: 0.09601964559999998
+3/9/2020:
+^GSPC closing value was: 2746.6
+^GSPC Percent Change was: -7.596554972
+Daily Account closing value was: 15008.0
+the Daily Account Percent Change was: -9.975406394
+The differential was: 2.3788514220000003
+3/10/2020:
+^GSPC closing value was: 2882.2
+^GSPC Percent Change was: 4.937013034
+Daily Account closing value was: 15653.0
+the Daily Account Percent Change was: 4.297707889
+The differential was: 0.6393051449999998
+3/11/2020:
+^GSPC closing value was: 2741.4
+^GSPC Percent Change was: -4.885157172
+Daily Account closing value was: 14686.0
+the Daily Account Percent Change was: -6.177729509000001
+The differential was: 1.2925723370000002
+3/12/2020:
+^GSPC closing value was: 2480.6
+^GSPC Percent Change was: -9.51338732
+Daily Account closing value was: 13128.0
+the Daily Account Percent Change was: -10.60874302
+The differential was: 1.0953557000000007
+3/13/2020:
+^GSPC closing value was: 2711.0
+^GSPC Percent Change was: 9.288075465999999
+Daily Account closing value was: 14132.0
+the Daily Account Percent Change was: 7.647775746000001
+The differential was: 1.640299719999998
+3/16/2020:
+^GSPC closing value was: 2386.1
+^GSPC Percent Change was: -11.98450756
+Daily Account closing value was: 12916.0
+the Daily Account Percent Change was: -8.604585338
+The differential was: -3.379922222000001
 

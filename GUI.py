@@ -1,6 +1,8 @@
 import tkinter as tk
 import pdb
 import sys
+from tkinter import ttk
+from tkinter import scrolledtext
 from openpyxl.workbook import Workbook
 from openpyxl import load_workbook
 
@@ -18,10 +20,10 @@ root.geometry("400x225")
 v = tk.IntVar()
 
 # Declare ranges to load lists
-date_range = ws['A2':'A2145']
-gspc_close_range = ws['B2':'B2145']
+date_range = ws['A3':'A2145']
+gspc_close_range = ws['B3':'B2145']
 gspc_dc_range = ws['C3':'C2145']
-davt_close_range = ws['E2':'E2145']
+davt_close_range = ws['E3':'E2145']
 davt_dc_range = ws['F3':'F2145']
 
 # Declare lists
@@ -43,12 +45,11 @@ def findStreakDifferential():
 	streak = int(streakLength)
 	future_days = int(futureDays)
 
-	streakDates = calc_Streak(minV, streak, future_days)
+	streakDateIndexList = calc_Streak(minV, streak, future_days)
 
-	print('Dates where the differential ("^gspc" daily change - ' +
-		'daily account" daily change) was \nhigher than ' + 
-			minValue + '% for ' + streakLength + ' or more days in a row:\n')
-	print(streakDates)
+	
+	#prettyPrint(streakDateIndexList, minValue, streakLength)
+	write_output(streakDateIndexList, minValue, streakLength)
 	sys.stdout.close()
 	root.destroy
 	root.quit()
@@ -60,25 +61,30 @@ def findStreakDifferential():
 # 	differentials list
 # this function will append the next Z days to the current
 # 	list of dates
-def add_future_days(streak_dates, day_count, start):
-	end = start + day_count
-	streak_dates += '\nThe next ' + str(day_count) + ' days of differentials: \n'
+def add_future_days(streak_date_indexes, future_day_count, start):
+	end = start + future_day_count
+	#streak_dates += '\nThe next ' + str(day_count) + ' days of differentials: \n'
 	for x in range(start, end):
-		streak_dates += dateList[x] + '\n'
+		streak_date_indexes.append(x)
 		# print('date list: ' + dateList[x] + '\n')
-	return streak_dates
+	return streak_date_indexes
 
+# This function takes the minimum value the user wants the differential to be
+# 	and the minimum streak they want, and finally the amount of days past the
+# 		streak that they want to see values of
+# Calculates the days that meet the criteria, and returns them in a list of
+# 	ints that represent the index of the main lists of the program
 def calc_Streak(minV, streak, future_day_count):
-	streakDates = ""
-	runningDates = ""
+	streakDateIndexes = []
+	runningDateIndexes = []
 	runningStreakCounter = 0
 	index = 0
 
 	for val in differentials:
-		index += 1
+		
 		if val >= minV:
 			# Save the date at the index point in a temp var
-			runningDates += dateList[index] + '\n'
+			runningDateIndexes.append(index)
 			runningStreakCounter += 1
 		else:
 			# Streak is broken. Save it to streakDates (what gets printed
@@ -87,11 +93,35 @@ def calc_Streak(minV, streak, future_day_count):
 				# add the current streak of dates to the main list
 				#streakDates += runningDates
 				# add the next future_day_count worth of dates to the main list
-				streakDates += add_future_days(runningDates, future_day_count, index) + '\n'
-			runningDates = ""
+				streakDateIndexes.extend(add_future_days(runningDateIndexes, future_day_count, index))
+			runningDateIndexes = []
 			runningStreakCounter = 0
 
-	return streakDates
+		index += 1
+
+	return streakDateIndexes
+
+# Writes the output in a new window
+def write_output(indexList, minValue, streakLength):
+	window = tk.Tk()
+	window.title("Results")
+
+	introString = ('Dates where the differential ("^gspc" daily change - ' +
+		'daily account" daily change) was \nhigher than ' + 
+			minValue + '% for ' + streakLength + ' or more days in a row:\n')
+
+	mainString = prettyStringBuilder(indexList, minValue, streakLength)
+
+	text_area = scrolledtext.ScrolledText(window,
+										  wrap = tk.WORD,
+										  width = 40,
+										  height = 10,
+										  font = ("Tims New Roman", 15))
+	text_area.grid(column = 0, pady = 10, padx = 10)
+	print(mainString)
+	text_area.insert(tk.INSERT, mainString)
+
+	window.mainloop()
 
 # "Load" functions load their respective lists with data from the Excel sheet
 def load_dates(worksheet):
@@ -131,6 +161,34 @@ def load_everything(worksheet):
 	load_davt_close(ws)
 	load_davt_daily_change(ws)
 	load_differentials(gspcDailyChangeList, davtDailyChangeList)
+
+def prettyPrint(indexList, minValue, streakLength):
+	print('Dates where the differential ("^gspc" daily change - ' +
+		'daily account" daily change) was \nhigher than ' + 
+			minValue + '% for ' + streakLength + ' or more days in a row:\n')
+
+	for i in indexList:
+		print(f"{dateList[i]}:\n^GSPC closing value was: {gspcCloseList[i]}" +
+			f"\n^GSPC Percent Change was: {gspcDailyChangeList[i]}\n" +
+				f"Daily Account closing value was: {davtCloseList[i]}\n" +
+					"the Daily Account Percent Change was: " +
+					f"{davtDailyChangeList[i]}\nThe differential was: " +
+					f"{differentials[i]}\n")
+
+# Creates a main string to display output in the scrolled text box
+def prettyStringBuilder(indexList, minValue, streakLength):
+	mainString = ""
+	test = "test"
+	for i in indexList:
+		mainString += (f"{dateList[i]}:\n^GSPC closing value was: {gspcCloseList[i]}" +
+			f"\n^GSPC Percent Change was: {gspcDailyChangeList[i]}\n" +
+				f"Daily Account closing value was: {davtCloseList[i]}\n" +
+					"the Daily Account Percent Change was: " +
+					f"{davtDailyChangeList[i]}\nThe differential was: " +
+					f"{differentials[i]}\n")
+	return mainString
+
+
 
 # End definitions
 # Begin program logic
