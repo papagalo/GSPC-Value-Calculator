@@ -46,10 +46,9 @@ def findStreakDifferential():
 	future_days = int(futureDays)
 
 	streakDateIndexList = calc_Streak(minV, streak, future_days)
-
 	
-	#prettyPrint(streakDateIndexList, minValue, streakLength)
-	write_output(streakDateIndexList, minValue, streakLength)
+	write_output(streakDateIndexList, minValue, streakLength, future_days)
+	
 	sys.stdout.close()
 	root.destroy
 	root.quit()
@@ -63,10 +62,8 @@ def findStreakDifferential():
 # 	list of dates
 def add_future_days(streak_date_indexes, future_day_count, start):
 	end = start + future_day_count
-	#streak_dates += '\nThe next ' + str(day_count) + ' days of differentials: \n'
 	for x in range(start, end):
 		streak_date_indexes.append(x)
-		# print('date list: ' + dateList[x] + '\n')
 	return streak_date_indexes
 
 # This function takes the minimum value the user wants the differential to be
@@ -90,10 +87,12 @@ def calc_Streak(minV, streak, future_day_count):
 			# Streak is broken. Save it to streakDates (what gets printed
 			# 	later) and reset temp vars
 			if runningStreakCounter >= streak:
-				# add the current streak of dates to the main list
-				#streakDates += runningDates
+				# append the flag to signal the end of a streak
+				runningDateIndexes.append(-2)
 				# add the next future_day_count worth of dates to the main list
 				streakDateIndexes.extend(add_future_days(runningDateIndexes, future_day_count, index))
+				# append another flag to signal the end of a streak & future days
+				streakDateIndexes.append(-1)
 			runningDateIndexes = []
 			runningStreakCounter = 0
 
@@ -102,23 +101,23 @@ def calc_Streak(minV, streak, future_day_count):
 	return streakDateIndexes
 
 # Writes the output in a new window
-def write_output(indexList, minValue, streakLength):
+def write_output(indexList, minValue, streakLength, future_days):
 	window = tk.Tk()
 	window.title("Results")
 
 	introString = ('Dates where the differential ("^gspc" daily change - ' +
-		'daily account" daily change) was \nhigher than ' + 
-			minValue + '% for ' + streakLength + ' or more days in a row:\n')
+		'daily account" daily change) was higher than ' + 
+			minValue + '% for ' + streakLength + ' or more days in a row:\n\n')
 
-	mainString = prettyStringBuilder(indexList, minValue, streakLength)
+	mainString = prettyStringBuilder(indexList, minValue, streakLength, future_days)
 
 	text_area = scrolledtext.ScrolledText(window,
 										  wrap = tk.WORD,
-										  width = 40,
-										  height = 10,
-										  font = ("Tims New Roman", 15))
+										  width = 50,
+										  height = 40,
+										  font = ("Times New Roman", 12))
 	text_area.grid(column = 0, pady = 10, padx = 10)
-	print(mainString)
+	text_area.insert(tk.INSERT, introString)
 	text_area.insert(tk.INSERT, mainString)
 
 	window.mainloop()
@@ -176,19 +175,40 @@ def prettyPrint(indexList, minValue, streakLength):
 					f"{differentials[i]}\n")
 
 # Creates a main string to display output in the scrolled text box
-def prettyStringBuilder(indexList, minValue, streakLength):
-	mainString = ""
-	test = "test"
+def prettyStringBuilder(indexList, minValue, streakLength, future_days):
+	curr_index = 0
+	firstStreakLen = currStreakLength(curr_index, indexList)
+	mainString = (f"New {firstStreakLen} day long streak where the " +
+		f"differential was at least {minValue}%\n")
 	for i in indexList:
-		mainString += (f"{dateList[i]}:\n^GSPC closing value was: {gspcCloseList[i]}" +
-			f"\n^GSPC Percent Change was: {gspcDailyChangeList[i]}\n" +
+		if (i == -1):
+			currStreakLen = currStreakLength(curr_index + 1, indexList)
+			#currStreakLen = streakLength
+			mainString += (f"\n\nNew {currStreakLen} day long streak where the " +
+			f"differential was at least {minValue}%\n")
+		elif (i == -2):
+			mainString += (f"\nThe next {future_days} days had these stats:\n")
+		else:
+			mainString += (f"{dateList[i]}:\n^GSPC closing value was: {gspcCloseList[i]}" +
+				f"\n^GSPC Percent Change was: {gspcDailyChangeList[i]}\n" +
 				f"Daily Account closing value was: {davtCloseList[i]}\n" +
-					"the Daily Account Percent Change was: " +
-					f"{davtDailyChangeList[i]}\nThe differential was: " +
-					f"{differentials[i]}\n")
+				"the Daily Account Percent Change was: " +
+				f"{davtDailyChangeList[i]}\nThe differential was: " +
+				f"{differentials[i]}\n")
+		curr_index += 1
 	return mainString
 
 
+def currStreakLength(index, index_list):
+	length = 0
+
+	for i in range(index,len(index_list)):
+		if (index_list[i] == -2):
+			return length
+		else:
+			length += 1
+	
+	return length
 
 # End definitions
 # Begin program logic
